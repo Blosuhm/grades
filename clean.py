@@ -10,8 +10,6 @@ student_template_global = {
     "year": {
         "1": {
             "average": -1,
-            "best": -1,
-            "worst": -1,
             "semesters": {
                 "1": {"average": -1, "best": -1, "worst": -1},
                 "2": {"average": -1, "best": -1, "worst": -1},
@@ -19,8 +17,6 @@ student_template_global = {
         },
         "2": {
             "average": -1,
-            "best": -1,
-            "worst": -1,
             "semesters": {
                 "1": {"average": -1, "best": -1, "worst": -1},
                 "2": {"average": -1, "best": -1, "worst": -1},
@@ -28,8 +24,6 @@ student_template_global = {
         },
         "3": {
             "average": -1,
-            "best": -1,
-            "worst": -1,
             "semesters": {
                 "1": {"average": -1, "best": -1, "worst": -1},
                 "2": {"average": -1, "best": -1, "worst": -1},

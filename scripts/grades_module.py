@@ -23,6 +23,6 @@ def validategrade(grade: str) -> int:
     return int(grade) if grade.isdecimal() and int(grade) in range(0, 21) else -2
 
 
-def isgrade(grade: int) -> bool:
+def isgrade(grade: int | float) -> bool:
     """Checks if integer is a grade."""
-    return grade in range(0, 21)
+    return 0 <= grade <= 20

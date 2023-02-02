@@ -62,7 +62,7 @@ def year_stats(grades: dict) -> None:
     """
     for student in grades["students"].values():
         for year in student["global"]["year"].values():
-            valid_grades: list[int] = [
+            valid_grades: list[float] = [
                 semester["average"]
                 for semester in year["semesters"].values()
                 if isgrade(semester["average"])
@@ -70,6 +70,7 @@ def year_stats(grades: dict) -> None:
 
             if not valid_grades:
                 continue
+            print(valid_grades)
             year["average"] = round(sum(valid_grades) / len(valid_grades), 2)
 
 
@@ -111,7 +112,7 @@ def global_stats(grades: dict) -> None:
     """
     for student in grades["students"].values():
         global_info: dict = student["global"]
-        valid_years: list[int] = [
+        valid_years: list[float] = [
             year["average"]
             for year in global_info["year"].values()
             if isgrade(year["average"])
@@ -131,7 +132,7 @@ def total_semester_stats(grades: dict) -> None:
     """
     for year, year_info in grades["global"]["year"].items():
         for semester, semester_info in year_info["semesters"].items():
-            valid_grades: list[int] = [
+            valid_grades: list[float] = [
                 student["global"]["year"][year]["semesters"][semester]["average"]
                 for student in grades["students"].values()
                 if isgrade(
@@ -141,7 +142,7 @@ def total_semester_stats(grades: dict) -> None:
             if not valid_grades:
                 continue
 
-            def get_students(grade: int, grades: dict) -> list[str]:
+            def get_students(grade: float, grades: dict) -> list[str]:
                 """Returns a list of students with the given grade."""
                 return [
                     student
@@ -168,7 +169,7 @@ def total_year_stats(grades: dict) -> None:
         grades (dict): The grades dictionary.
     """
     for year, year_info in grades["global"]["year"].items():
-        valid_grades: list[int] = [
+        valid_grades: list[float] = [
             student["global"]["year"][year]["average"]
             for student in grades["students"].values()
             if isgrade(student["global"]["year"][year]["average"])
@@ -176,7 +177,7 @@ def total_year_stats(grades: dict) -> None:
         if not valid_grades:
             continue
 
-        def get_students(grade: int, grades: dict) -> list[str]:
+        def get_students(grade: float, grades: dict) -> list[str]:
             """Returns a list of students with the given grade."""
             return [
                 student
@@ -227,7 +228,7 @@ def total_global_stats(grades: dict) -> None:
     Args:
         grades (dict): The grades dictionary.
     """
-    valid_grades: list[int] = [
+    valid_grades: list[float] = [
         student["global"]["average"]
         for student in grades["students"].values()
         if isgrade(student["global"]["average"])
@@ -235,7 +236,7 @@ def total_global_stats(grades: dict) -> None:
     if not valid_grades:
         return
 
-    def get_students(grade: int, grades: dict) -> list[str]:
+    def get_students(grade: float, grades: dict) -> list[str]:
         """Returns a list of students with the given grade."""
         return [
             student
@@ -258,7 +259,7 @@ def global_subject_stats(grades: dict) -> None:
     Args:
         grades (dict): The grades dictionary.
     """
-    valid_grades: list[int] = [
+    valid_grades: list[float] = [
         subject["average"]
         for subject in grades["subjects"].values()
         if isgrade(subject["average"])
@@ -266,7 +267,7 @@ def global_subject_stats(grades: dict) -> None:
     if not valid_grades:
         return
 
-    def get_subjects(grade: int, grades: dict) -> list[str]:
+    def get_subjects(grade: float, grades: dict) -> list[str]:
         """Returns a list of subjects with the given grade."""
         return [
             subject
