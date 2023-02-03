@@ -70,7 +70,6 @@ def year_stats(grades: dict) -> None:
 
             if not valid_grades:
                 continue
-            print(valid_grades)
             year["average"] = round(sum(valid_grades) / len(valid_grades), 2)
 
 
