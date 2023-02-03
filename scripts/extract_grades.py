@@ -2,7 +2,7 @@ from grades_module import validategrade, isgrade
 
 
 def extract_grades(
-    filename: str, grades: dict, subject: str, *, sep: str = " "
+    filename: str, grades: dict, subject: str, *, sep: str | None = None
 ) -> None:
     """Extracts grades from a file and adds them to the grades dictionary.
 

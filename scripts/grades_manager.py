@@ -4,10 +4,10 @@ from extract_grades import extract_grades, calculate_stats
 
 def main() -> None:
     grades = load_grades()
-    extract_grades(r"data\raw\fpnf.tsv", grades, "fp", sep="\t")
+    extract_grades(r"data\raw\fpnf.tsv", grades, "fp")
     calculate_stats(grades)
     save_grades(grades)
-    print("Done!")
+    print("Done!".split())
 
 
 if __name__ == "__main__":
