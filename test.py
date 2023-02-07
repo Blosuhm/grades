@@ -1,6 +1,3 @@
-import json
+first, *_, last = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
-with open(r"data\grades.json", "r", encoding="utf8") as f:
-    dct = json.load(f)
-
-print(len(dct["students"]))
+print(_)

@@ -31,11 +31,12 @@ def choose_grade(new_value: int | str, old_value: int | str) -> int | str:
 def clear_data() -> None:
     """Cleans the raw data."""
     for folder in os.listdir(RAW_DATA):
-        clean_data = dict()
+        clean_data: dict = dict()
         for file in os.listdir(rf"{RAW_DATA}\{folder}"):
             with open(rf"{RAW_DATA}\{folder}\{file}", "r", encoding="utf-8") as f:
                 for line in f:
-                    nmec, grade = line.strip().split()[0], line.strip().split()[-1]
+                    nmec, *_, grade = line.strip().split()
+                    grade = grade.replace(",", ".")
                     grade = round(float(grade)) if isfloat(grade) else grade
 
                     clean_data[nmec] = choose_grade(grade, clean_data.get(nmec, ""))
