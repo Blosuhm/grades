@@ -3,14 +3,13 @@ from extract_grades import extract_grades, calculate_stats
 import os
 
 
-RAW_DATA = r"data\raw"
+CLEAN_DATA = r"data\clean"
 
 
 def main() -> None:
     grades = load_grades()
-    for folder in os.listdir(RAW_DATA):
-        for file in os.listdir(rf"{RAW_DATA}\{folder}"):
-            extract_grades(rf"{RAW_DATA}\{folder}\{file}", grades, folder)
+    for file in os.listdir(CLEAN_DATA):
+        extract_grades(rf"{CLEAN_DATA}\{file}", grades, file.removesuffix(".tsv"))
 
     calculate_stats(grades)
     save_grades(grades)
