@@ -3,7 +3,7 @@ from extract_grades import extract_grades, calculate_stats
 import os
 
 
-CLEAN_DATA = r"data\clean"
+CLEAN_DATA = r"grades-data\data\clean"
 
 
 def main() -> None:

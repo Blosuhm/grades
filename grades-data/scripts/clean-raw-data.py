@@ -1,7 +1,7 @@
 import os
 
 
-RAW_DATA = r"data\raw"
+RAW_DATA = r"grades-data\data\raw"
 
 
 def isfloat(value: str) -> bool:
@@ -40,7 +40,7 @@ def clear_data() -> None:
                     grade = round(float(grade)) if isfloat(grade) else grade
 
                     clean_data[nmec] = choose_grade(grade, clean_data.get(nmec, ""))
-        with open(rf"data\clean\{folder}.tsv", "w", encoding="utf-8") as f:
+        with open(rf"grades-data\data\clean\{folder}.tsv", "w", encoding="utf-8") as f:
             for nmec, grade in clean_data.items():
                 f.write(f"{nmec}\t{grade}\n")
 
