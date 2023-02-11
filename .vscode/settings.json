@@ -1,5 +1,10 @@
 {
-  "cSpell.words": ["isfloat", "isgrade", "nmec", "validategrade"],
+  "cSpell.words": [
+    "isfloat",
+    "isgrade",
+    "nmec",
+    "validategrade"
+  ],
   "files.exclude": {
     "**/.git": true,
     "**/.svn": true,
@@ -11,5 +16,7 @@
     "node_modules": true,
     ".eslintrc.json": true
   },
-  "explorerExclude.backup": {}
+  "explorerExclude.backup": {},
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true
 }
