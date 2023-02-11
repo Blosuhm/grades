@@ -35,7 +35,7 @@ def semester_stats(grades: dict) -> None:
     for student in grades["students"].values():
         for year, year_info in student["global"]["year"].items():
             for semester, semester_info in year_info["semesters"].items():
-                possible_subjects: list[str] = grades["semester-subjetcs"][year][
+                possible_subjects: list[str] = grades["semester-subjects"][year][
                     semester
                 ]
                 if not possible_subjects:
