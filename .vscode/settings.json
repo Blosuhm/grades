@@ -3,6 +3,7 @@
     "isfloat",
     "isgrade",
     "nmec",
+    "tailwindcss",
     "validategrade"
   ],
   "files.exclude": {
@@ -13,8 +14,8 @@
     "**/.DS_Store": true,
     "**/Thumbs.db": true,
     ".gitignore": true,
-    "node_modules": true,
-    ".eslintrc.json": true
+    ".eslintrc.json": true,
+    "node_modules": true
   },
   "explorerExclude.backup": {},
   "typescript.tsdk": "node_modules\\typescript\\lib",
