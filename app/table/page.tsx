@@ -2,7 +2,7 @@ import grades from "../../grades-data/data/grades.json";
 
 export default function TablePage() {
   return (
-    <div>
+    <div className="container mx-auto px-4">
       <h1>Table</h1>
       {Object.entries(grades.students).map(([nmec, data]) => (
         <div key={nmec}>
