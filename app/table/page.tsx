@@ -40,13 +40,17 @@ interface Grades {
   };
   "semester-subjects": {
     [year: string]: {
-      [semester: string]: string[];
+      [semester: string]: string[] | [];
     };
   };
   global: {
     average: number;
     best: [number, string[] | []];
     worst: [number, string[] | []];
+    subject: {
+      best: [number, string[] | []];
+      worst: [number, string[] | []];
+    };
     year: {
       [year: string]: {
         average: number;
@@ -93,13 +97,9 @@ export default function TablePage() {
             <h2>
               {name} ({nmec})
             </h2>
-
             <hr />
-
             <h3>Grades</h3>
-
             <h3>Global</h3>
-
             <p>
               Global Average:
               {formatGlobalAverage(global.average)}
