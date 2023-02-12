@@ -10,7 +10,7 @@ export default function RootLayout({
       <head />
       <body>
         <nav></nav>
-        <main>{children}</main>
+        <main className="container mx-auto px-4">{children}</main>
         <footer></footer>
       </body>
     </html>

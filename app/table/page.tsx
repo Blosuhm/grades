@@ -9,8 +9,8 @@ interface Grades {
         best: number;
         worst: number;
         subjects: {
-          best: (number & string[])[];
-          worst: (number & string[])[];
+          best: [number, string[] | []];
+          worst: [number, string[] | []];
         };
         year: {
           [year: string]: {
@@ -34,8 +34,8 @@ interface Grades {
     [subject: string]: {
       name: string;
       average: number;
-      best: (number & string[])[];
-      worst: (number & string[])[];
+      best: [number, string[] | []];
+      worst: [number, string[] | []];
     };
   };
   "semester-subjects": {
@@ -45,18 +45,18 @@ interface Grades {
   };
   global: {
     average: number;
-    best: (number & string[])[];
-    worst: (number & string[])[];
+    best: [number, string[] | []];
+    worst: [number, string[] | []];
     year: {
       [year: string]: {
         average: number;
-        best: (number & string[])[];
-        worst: (number & string[])[];
+        best: [number, string[] | []];
+        worst: [number, string[] | []];
         semester: {
           [semester: string]: {
             average: number;
-            best: (number & string[])[];
-            worst: (number & string[])[];
+            best: [number, string[] | []];
+            worst: [number, string[] | []];
           };
         };
       };
@@ -70,7 +70,7 @@ function formatGlobalAverage(average: number): number | "No data" {
   return average === -1 ? "No data" : average;
 }
 
-function formatGlobalSubjects(data: (number & string[])[]): string {
+function formatGlobalSubjects(data: [number, string[] | []]): string {
   if (data[0] === -1) return "No data";
   const subjects = `(${data[1]
     .map(

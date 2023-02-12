@@ -1,0 +1,6646 @@
+{
+  "students": {
+    "35958": {
+      "name": "MARCOS ANDRÉ PINTO DE CARVALHO",
+      "global": {
+        "average": 15.0,
+        "best": 15.0,
+        "worst": 15.0,
+        "subjects": {
+          "best": [15, ["itw"]],
+          "worst": [15, ["itw"]]
+        },
+        "year": {
+          "1": {
+            "average": 15.0,
+            "semester": {
+              "1": {
+                "average": 15.0,
+                "best": 15,
+                "worst": 15
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 15,
+        "alga": -1,
+        "ci": -1,
+        "mas": -1,
+        "fp": -1
+      }
+    },
+    "89773": {
+      "name": "JOSÉ MIGUEL DOS SANTOS PINHO",
+      "global": {
+        "average": -1,
+        "best": -1,
+        "worst": -1,
+        "subjects": {
+          "best": [-1, []],
+          "worst": [-1, []]
+        },
+        "year": {
+          "1": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": -2,
+        "alga": -1,
+        "ci": -1,
+        "mas": -2,
+        "fp": -1
+      }
+    },
+    "93459": {
+      "name": "TOMÁS HENRIQUE NOGUEIRA LOPES",
+      "global": {
+        "average": -1,
+        "best": -1,
+        "worst": -1,
+        "subjects": {
+          "best": [-1, []],
+          "worst": [-1, []]
+        },
+        "year": {
+          "1": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": -2,
+        "alga": -1,
+        "ci": -2,
+        "mas": -2,
+        "fp": -2
+      }
+    },
+    "98059": {
+      "name": "PEDRO MATOS PONTE",
+      "global": {
+        "average": 14.0,
+        "best": 14.0,
+        "worst": 14.0,
+        "subjects": {
+          "best": [16, ["fp"]],
+          "worst": [12, ["itw"]]
+        },
+        "year": {
+          "1": {
+            "average": 14.0,
+            "semester": {
+              "1": {
+                "average": 14.0,
+                "best": 16,
+                "worst": 12
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 12,
+        "alga": -2,
+        "ci": -1,
+        "mas": 14,
+        "fp": 16
+      }
+    },
+    "100071": {
+      "name": "DIREN MARTINS RAMJI",
+      "global": {
+        "average": -1,
+        "best": -1,
+        "worst": -1,
+        "subjects": {
+          "best": [-1, []],
+          "worst": [-1, []]
+        },
+        "year": {
+          "1": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": -2,
+        "alga": -2,
+        "ci": -2,
+        "mas": -1,
+        "fp": -1
+      }
+    },
+    "101448": {
+      "name": "JOSE ANDRES TAPIA BUSTOS",
+      "global": {
+        "average": 10.0,
+        "best": 10.0,
+        "worst": 10.0,
+        "subjects": {
+          "best": [10, ["fp"]],
+          "worst": [10, ["fp"]]
+        },
+        "year": {
+          "1": {
+            "average": 10.0,
+            "semester": {
+              "1": {
+                "average": 10.0,
+                "best": 10,
+                "worst": 10
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": -2,
+        "alga": -2,
+        "ci": -2,
+        "mas": -2,
+        "fp": 10
+      }
+    },
+    "103070": {
+      "name": "EDUARDO LUÍS PINHAL LOPES",
+      "global": {
+        "average": 13.8,
+        "best": 13.8,
+        "worst": 13.8,
+        "subjects": {
+          "best": [15, ["alga", "mas"]],
+          "worst": [12, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 13.8,
+            "semester": {
+              "1": {
+                "average": 13.8,
+                "best": 15,
+                "worst": 12
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 14,
+        "alga": 15,
+        "ci": 12,
+        "mas": 15,
+        "fp": 13
+      }
+    },
+    "103592": {
+      "name": "BERNARDO RODRIGUES BORGES",
+      "global": {
+        "average": 14.0,
+        "best": 14.0,
+        "worst": 14.0,
+        "subjects": {
+          "best": [15, ["mas"]],
+          "worst": [13, ["itw"]]
+        },
+        "year": {
+          "1": {
+            "average": 14.0,
+            "semester": {
+              "1": {
+                "average": 14.0,
+                "best": 15,
+                "worst": 13
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 13,
+        "alga": -2,
+        "ci": -1,
+        "mas": 15,
+        "fp": -1
+      }
+    },
+    "103730": {
+      "name": "JOÃO PEDRO FERREIRA MORAIS",
+      "global": {
+        "average": 11.5,
+        "best": 11.5,
+        "worst": 11.5,
+        "subjects": {
+          "best": [13, ["itw"]],
+          "worst": [10, ["alga"]]
+        },
+        "year": {
+          "1": {
+            "average": 11.5,
+            "semester": {
+              "1": {
+                "average": 11.5,
+                "best": 13,
+                "worst": 10
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 13,
+        "alga": 10,
+        "ci": -1,
+        "mas": -1,
+        "fp": -1
+      }
+    },
+    "104384": {
+      "name": "JOÃO PEDRO AZEVEDO PINTO",
+      "global": {
+        "average": -1,
+        "best": -1,
+        "worst": -1,
+        "subjects": {
+          "best": [-1, []],
+          "worst": [-1, []]
+        },
+        "year": {
+          "1": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": -2,
+        "alga": -2,
+        "ci": -1,
+        "mas": -2,
+        "fp": -1
+      }
+    },
+    "104429": {
+      "name": "JOANA AMARAL GOMES",
+      "global": {
+        "average": 12.0,
+        "best": 12.0,
+        "worst": 12.0,
+        "subjects": {
+          "best": [12, ["itw"]],
+          "worst": [12, ["itw"]]
+        },
+        "year": {
+          "1": {
+            "average": 12.0,
+            "semester": {
+              "1": {
+                "average": 12.0,
+                "best": 12,
+                "worst": 12
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 12,
+        "alga": -1,
+        "ci": -1,
+        "mas": -1,
+        "fp": -1
+      }
+    },
+    "107758": {
+      "name": "GONÇALO GOMES MONTEIRO",
+      "global": {
+        "average": 12.0,
+        "best": 12.0,
+        "worst": 12.0,
+        "subjects": {
+          "best": [14, ["mas"]],
+          "worst": [10, ["itw"]]
+        },
+        "year": {
+          "1": {
+            "average": 12.0,
+            "semester": {
+              "1": {
+                "average": 12.0,
+                "best": 14,
+                "worst": 10
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 10,
+        "alga": -2,
+        "ci": -1,
+        "mas": 14,
+        "fp": -1
+      }
+    },
+    "107927": {
+      "name": "RUBEN TAVARES GARRIDO",
+      "global": {
+        "average": 16.5,
+        "best": 16.5,
+        "worst": 16.5,
+        "subjects": {
+          "best": [18, ["itw"]],
+          "worst": [15, ["mas"]]
+        },
+        "year": {
+          "1": {
+            "average": 16.5,
+            "semester": {
+              "1": {
+                "average": 16.5,
+                "best": 18,
+                "worst": 15
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 18,
+        "alga": -2,
+        "ci": -1,
+        "mas": 15,
+        "fp": -1
+      }
+    },
+    "109061": {
+      "name": "ÂNGELA MARIA MARTINS DE ABREU RIBEIRO",
+      "global": {
+        "average": 14.67,
+        "best": 14.67,
+        "worst": 14.67,
+        "subjects": {
+          "best": [18, ["fp"]],
+          "worst": [11, ["itw"]]
+        },
+        "year": {
+          "1": {
+            "average": 14.67,
+            "semester": {
+              "1": {
+                "average": 14.67,
+                "best": 18,
+                "worst": 11
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 11,
+        "alga": -2,
+        "ci": -1,
+        "mas": 15,
+        "fp": 18
+      }
+    },
+    "110116": {
+      "name": "ANA PATRÍCIA DE ALMEIDA",
+      "global": {
+        "average": 7.0,
+        "best": 7.0,
+        "worst": 7.0,
+        "subjects": {
+          "best": [12, ["itw"]],
+          "worst": [2, ["alga"]]
+        },
+        "year": {
+          "1": {
+            "average": 7.0,
+            "semester": {
+              "1": {
+                "average": 7.0,
+                "best": 12,
+                "worst": 2
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 12,
+        "alga": 2,
+        "ci": -2,
+        "mas": -1,
+        "fp": -2
+      }
+    },
+    "110150": {
+      "name": "ANDERSON DE PAULA FILIPE TEMBE",
+      "global": {
+        "average": 8.33,
+        "best": 8.33,
+        "worst": 8.33,
+        "subjects": {
+          "best": [14, ["mas"]],
+          "worst": [1, ["alga"]]
+        },
+        "year": {
+          "1": {
+            "average": 8.33,
+            "semester": {
+              "1": {
+                "average": 8.33,
+                "best": 14,
+                "worst": 1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 10,
+        "alga": 1,
+        "ci": -2,
+        "mas": 14,
+        "fp": -2
+      }
+    },
+    "110160": {
+      "name": "KEEGAN RAFAEL BARBOSA AZEVEDO",
+      "global": {
+        "average": 8.0,
+        "best": 8.0,
+        "worst": 8.0,
+        "subjects": {
+          "best": [10, ["itw", "fp"]],
+          "worst": [4, ["alga"]]
+        },
+        "year": {
+          "1": {
+            "average": 8.0,
+            "semester": {
+              "1": {
+                "average": 8.0,
+                "best": 10,
+                "worst": 4
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 10,
+        "alga": 4,
+        "ci": -2,
+        "mas": -1,
+        "fp": 10
+      }
+    },
+    "110235": {
+      "name": "DANIEL GABRIEL SIMBE",
+      "global": {
+        "average": 8.5,
+        "best": 8.5,
+        "worst": 8.5,
+        "subjects": {
+          "best": [13, ["ci"]],
+          "worst": [1, ["alga"]]
+        },
+        "year": {
+          "1": {
+            "average": 8.5,
+            "semester": {
+              "1": {
+                "average": 8.5,
+                "best": 13,
+                "worst": 1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 8,
+        "alga": 1,
+        "ci": 13,
+        "mas": 12,
+        "fp": -2
+      }
+    },
+    "110555": {
+      "name": "JOAO CARLOS LEITE SANTOS",
+      "global": {
+        "average": 9.67,
+        "best": 9.67,
+        "worst": 9.67,
+        "subjects": {
+          "best": [13, ["itw"]],
+          "worst": [8, ["alga", "ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 9.67,
+            "semester": {
+              "1": {
+                "average": 9.67,
+                "best": 13,
+                "worst": 8
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 13,
+        "alga": 8,
+        "ci": 8,
+        "mas": -1,
+        "fp": -1
+      }
+    },
+    "111590": {
+      "name": "BRUNO DE BARROS BONILAURI CHARÃO",
+      "global": {
+        "average": 10.5,
+        "best": 10.5,
+        "worst": 10.5,
+        "subjects": {
+          "best": [12, ["mas"]],
+          "worst": [9, ["alga"]]
+        },
+        "year": {
+          "1": {
+            "average": 10.5,
+            "semester": {
+              "1": {
+                "average": 10.5,
+                "best": 12,
+                "worst": 9
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 11,
+        "alga": 9,
+        "ci": -2,
+        "mas": 12,
+        "fp": 10
+      }
+    },
+    "112610": {
+      "name": "DAVID FILIPE FERREIRA AMORIM",
+      "global": {
+        "average": 17.6,
+        "best": 17.6,
+        "worst": 17.6,
+        "subjects": {
+          "best": [20, ["fp"]],
+          "worst": [15, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 17.6,
+            "semester": {
+              "1": {
+                "average": 17.6,
+                "best": 20,
+                "worst": 15
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 17,
+        "alga": 19,
+        "ci": 15,
+        "mas": 17,
+        "fp": 20
+      }
+    },
+    "112665": {
+      "name": "TOMÁS RAFAEL MARQUES BRÁS",
+      "global": {
+        "average": 13.8,
+        "best": 13.8,
+        "worst": 13.8,
+        "subjects": {
+          "best": [18, ["alga"]],
+          "worst": [10, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 13.8,
+            "semester": {
+              "1": {
+                "average": 13.8,
+                "best": 18,
+                "worst": 10
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 14,
+        "alga": 18,
+        "ci": 10,
+        "mas": 14,
+        "fp": 13
+      }
+    },
+    "112668": {
+      "name": "DAVID LUÍS DE SOUSA TOMAZ",
+      "global": {
+        "average": 14.8,
+        "best": 14.8,
+        "worst": 14.8,
+        "subjects": {
+          "best": [17, ["alga"]],
+          "worst": [12, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 14.8,
+            "semester": {
+              "1": {
+                "average": 14.8,
+                "best": 17,
+                "worst": 12
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 15,
+        "alga": 17,
+        "ci": 12,
+        "mas": 15,
+        "fp": 15
+      }
+    },
+    "112714": {
+      "name": "DIOGO MARQUES COSTA",
+      "global": {
+        "average": 11.8,
+        "best": 11.8,
+        "worst": 11.8,
+        "subjects": {
+          "best": [15, ["fp"]],
+          "worst": [10, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 11.8,
+            "semester": {
+              "1": {
+                "average": 11.8,
+                "best": 15,
+                "worst": 10
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 12,
+        "alga": 11,
+        "ci": 10,
+        "mas": 11,
+        "fp": 15
+      }
+    },
+    "112733": {
+      "name": "HUGO FILIPE CAETANO DE SOUSA",
+      "global": {
+        "average": 11.6,
+        "best": 11.6,
+        "worst": 11.6,
+        "subjects": {
+          "best": [15, ["fp"]],
+          "worst": [8, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 11.6,
+            "semester": {
+              "1": {
+                "average": 11.6,
+                "best": 15,
+                "worst": 8
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 13,
+        "alga": 10,
+        "ci": 8,
+        "mas": 12,
+        "fp": 15
+      }
+    },
+    "112841": {
+      "name": "FRANCISCA FERREIRA PEDRO SILVA",
+      "global": {
+        "average": 13.0,
+        "best": 13.0,
+        "worst": 13.0,
+        "subjects": {
+          "best": [15, ["alga"]],
+          "worst": [12, ["itw", "ci", "fp"]]
+        },
+        "year": {
+          "1": {
+            "average": 13.0,
+            "semester": {
+              "1": {
+                "average": 13.0,
+                "best": 15,
+                "worst": 12
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 12,
+        "alga": 15,
+        "ci": 12,
+        "mas": 14,
+        "fp": 12
+      }
+    },
+    "112876": {
+      "name": "RICARDO ANTONIO SANTOS BASTOS MARTINS",
+      "global": {
+        "average": 13.4,
+        "best": 13.4,
+        "worst": 13.4,
+        "subjects": {
+          "best": [15, ["mas", "fp"]],
+          "worst": [12, ["alga", "ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 13.4,
+            "semester": {
+              "1": {
+                "average": 13.4,
+                "best": 15,
+                "worst": 12
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 13,
+        "alga": 12,
+        "ci": 12,
+        "mas": 15,
+        "fp": 15
+      }
+    },
+    "112901": {
+      "name": "TIAGO JOSÉ SOARES DE ALBUQUERQUE",
+      "global": {
+        "average": 11.4,
+        "best": 11.4,
+        "worst": 11.4,
+        "subjects": {
+          "best": [13, ["itw", "mas"]],
+          "worst": [9, ["fp"]]
+        },
+        "year": {
+          "1": {
+            "average": 11.4,
+            "semester": {
+              "1": {
+                "average": 11.4,
+                "best": 13,
+                "worst": 9
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 13,
+        "alga": 12,
+        "ci": 10,
+        "mas": 13,
+        "fp": 9
+      }
+    },
+    "112957": {
+      "name": "GUILHERME MENDES MESQUITA",
+      "global": {
+        "average": 8.4,
+        "best": 8.4,
+        "worst": 8.4,
+        "subjects": {
+          "best": [11, ["itw", "mas"]],
+          "worst": [4, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 8.4,
+            "semester": {
+              "1": {
+                "average": 8.4,
+                "best": 11,
+                "worst": 4
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 11,
+        "alga": 8,
+        "ci": 4,
+        "mas": 11,
+        "fp": 8
+      }
+    },
+    "112959": {
+      "name": "LUÍS MIGUEL NETO GODINHO",
+      "global": {
+        "average": 14.2,
+        "best": 14.2,
+        "worst": 14.2,
+        "subjects": {
+          "best": [17, ["fp"]],
+          "worst": [12, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 14.2,
+            "semester": {
+              "1": {
+                "average": 14.2,
+                "best": 17,
+                "worst": 12
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 14,
+        "alga": 15,
+        "ci": 12,
+        "mas": 13,
+        "fp": 17
+      }
+    },
+    "112974": {
+      "name": "ANDRÉ PEDRO RIBEIRO",
+      "global": {
+        "average": 15.0,
+        "best": 15.0,
+        "worst": 15.0,
+        "subjects": {
+          "best": [16, ["itw", "alga", "mas", "fp"]],
+          "worst": [11, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 15.0,
+            "semester": {
+              "1": {
+                "average": 15.0,
+                "best": 16,
+                "worst": 11
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 16,
+        "alga": 16,
+        "ci": 11,
+        "mas": 16,
+        "fp": 16
+      }
+    },
+    "112981": {
+      "name": "TOMÁS SANTOS FERNANDES",
+      "global": {
+        "average": 15.8,
+        "best": 15.8,
+        "worst": 15.8,
+        "subjects": {
+          "best": [18, ["fp"]],
+          "worst": [14, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 15.8,
+            "semester": {
+              "1": {
+                "average": 15.8,
+                "best": 18,
+                "worst": 14
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 15,
+        "alga": 16,
+        "ci": 14,
+        "mas": 16,
+        "fp": 18
+      }
+    },
+    "112994": {
+      "name": "NUNO SANCHES LEITE DE FARIA",
+      "global": {
+        "average": 8.4,
+        "best": 8.4,
+        "worst": 8.4,
+        "subjects": {
+          "best": [14, ["fp"]],
+          "worst": [2, ["alga"]]
+        },
+        "year": {
+          "1": {
+            "average": 8.4,
+            "semester": {
+              "1": {
+                "average": 8.4,
+                "best": 14,
+                "worst": 2
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 10,
+        "alga": 2,
+        "ci": 5,
+        "mas": 11,
+        "fp": 14
+      }
+    },
+    "113144": {
+      "name": "JOÃO PEDRO MOREIRA VIEGAS",
+      "global": {
+        "average": 16.8,
+        "best": 16.8,
+        "worst": 16.8,
+        "subjects": {
+          "best": [19, ["fp"]],
+          "worst": [14, ["mas"]]
+        },
+        "year": {
+          "1": {
+            "average": 16.8,
+            "semester": {
+              "1": {
+                "average": 16.8,
+                "best": 19,
+                "worst": 14
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 17,
+        "alga": 18,
+        "ci": 16,
+        "mas": 14,
+        "fp": 19
+      }
+    },
+    "113170": {
+      "name": "DANIEL BATISTA RAMOS",
+      "global": {
+        "average": 13.6,
+        "best": 13.6,
+        "worst": 13.6,
+        "subjects": {
+          "best": [18, ["fp"]],
+          "worst": [10, ["alga", "ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 13.6,
+            "semester": {
+              "1": {
+                "average": 13.6,
+                "best": 18,
+                "worst": 10
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 15,
+        "alga": 10,
+        "ci": 10,
+        "mas": 15,
+        "fp": 18
+      }
+    },
+    "113207": {
+      "name": "GUILHERME ALEXANDRE QUINTÃO JANEIRO AMARAL",
+      "global": {
+        "average": 16.2,
+        "best": 16.2,
+        "worst": 16.2,
+        "subjects": {
+          "best": [18, ["alga", "fp"]],
+          "worst": [13, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 16.2,
+            "semester": {
+              "1": {
+                "average": 16.2,
+                "best": 18,
+                "worst": 13
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 15,
+        "alga": 18,
+        "ci": 13,
+        "mas": 17,
+        "fp": 18
+      }
+    },
+    "113245": {
+      "name": "FÁBIO EMANUEL PENA ALVIM",
+      "global": {
+        "average": 16.33,
+        "best": 16.33,
+        "worst": 16.33,
+        "subjects": {
+          "best": [18, ["fp"]],
+          "worst": [15, ["itw"]]
+        },
+        "year": {
+          "1": {
+            "average": 16.33,
+            "semester": {
+              "1": {
+                "average": 16.33,
+                "best": 18,
+                "worst": 15
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 15,
+        "alga": -1,
+        "ci": -1,
+        "mas": 16,
+        "fp": 18
+      }
+    },
+    "113278": {
+      "name": "JORGE GUILHERME CONCEIÇÃO DOMINGUES",
+      "global": {
+        "average": 12.4,
+        "best": 12.4,
+        "worst": 12.4,
+        "subjects": {
+          "best": [13, ["itw", "fp"]],
+          "worst": [12, ["alga", "ci", "mas"]]
+        },
+        "year": {
+          "1": {
+            "average": 12.4,
+            "semester": {
+              "1": {
+                "average": 12.4,
+                "best": 13,
+                "worst": 12
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 13,
+        "alga": 12,
+        "ci": 12,
+        "mas": 12,
+        "fp": 13
+      }
+    },
+    "113372": {
+      "name": "BRUNO TAVARES MEIXEDO",
+      "global": {
+        "average": 13.8,
+        "best": 13.8,
+        "worst": 13.8,
+        "subjects": {
+          "best": [17, ["itw"]],
+          "worst": [11, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 13.8,
+            "semester": {
+              "1": {
+                "average": 13.8,
+                "best": 17,
+                "worst": 11
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 17,
+        "alga": 14,
+        "ci": 11,
+        "mas": 14,
+        "fp": 13
+      }
+    },
+    "113384": {
+      "name": "DANILO MICAEL GREGÓRIO SILVA",
+      "global": {
+        "average": 15.6,
+        "best": 15.6,
+        "worst": 15.6,
+        "subjects": {
+          "best": [18, ["fp"]],
+          "worst": [13, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 15.6,
+            "semester": {
+              "1": {
+                "average": 15.6,
+                "best": 18,
+                "worst": 13
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 16,
+        "alga": 15,
+        "ci": 13,
+        "mas": 16,
+        "fp": 18
+      }
+    },
+    "113402": {
+      "name": "HUGO SANTOS RIBEIRO",
+      "global": {
+        "average": 14.0,
+        "best": 14.0,
+        "worst": 14.0,
+        "subjects": {
+          "best": [17, ["alga"]],
+          "worst": [12, ["mas"]]
+        },
+        "year": {
+          "1": {
+            "average": 14.0,
+            "semester": {
+              "1": {
+                "average": 14.0,
+                "best": 17,
+                "worst": 12
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 13,
+        "alga": 17,
+        "ci": 13,
+        "mas": 12,
+        "fp": 15
+      }
+    },
+    "113403": {
+      "name": "JOSÉ PEDRO SALGADO OLIVEIRA",
+      "global": {
+        "average": 11.2,
+        "best": 11.2,
+        "worst": 11.2,
+        "subjects": {
+          "best": [14, ["itw", "fp"]],
+          "worst": [7, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 11.2,
+            "semester": {
+              "1": {
+                "average": 11.2,
+                "best": 14,
+                "worst": 7
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 14,
+        "alga": 10,
+        "ci": 7,
+        "mas": 11,
+        "fp": 14
+      }
+    },
+    "113475": {
+      "name": "CAROLINA SOFIA PEREIRA DA SILVA",
+      "global": {
+        "average": 13.4,
+        "best": 13.4,
+        "worst": 13.4,
+        "subjects": {
+          "best": [16, ["itw", "alga"]],
+          "worst": [10, ["ci", "fp"]]
+        },
+        "year": {
+          "1": {
+            "average": 13.4,
+            "semester": {
+              "1": {
+                "average": 13.4,
+                "best": 16,
+                "worst": 10
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 16,
+        "alga": 16,
+        "ci": 10,
+        "mas": 15,
+        "fp": 10
+      }
+    },
+    "113480": {
+      "name": "AFONSO LUCAS DE OLIVEIRA FERREIRA",
+      "global": {
+        "average": 13.8,
+        "best": 13.8,
+        "worst": 13.8,
+        "subjects": {
+          "best": [17, ["fp"]],
+          "worst": [10, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 13.8,
+            "semester": {
+              "1": {
+                "average": 13.8,
+                "best": 17,
+                "worst": 10
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 14,
+        "alga": 14,
+        "ci": 10,
+        "mas": 14,
+        "fp": 17
+      }
+    },
+    "113482": {
+      "name": "JOÃO RICARDO LOPES NETO",
+      "global": {
+        "average": 13.2,
+        "best": 13.2,
+        "worst": 13.2,
+        "subjects": {
+          "best": [16, ["fp"]],
+          "worst": [11, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 13.2,
+            "semester": {
+              "1": {
+                "average": 13.2,
+                "best": 16,
+                "worst": 11
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 12,
+        "alga": 14,
+        "ci": 11,
+        "mas": 13,
+        "fp": 16
+      }
+    },
+    "113526": {
+      "name": "RODRIGO MARQUES DE JESUS",
+      "global": {
+        "average": 13.0,
+        "best": 13.0,
+        "worst": 13.0,
+        "subjects": {
+          "best": [16, ["fp"]],
+          "worst": [11, ["itw"]]
+        },
+        "year": {
+          "1": {
+            "average": 13.0,
+            "semester": {
+              "1": {
+                "average": 13.0,
+                "best": 16,
+                "worst": 11
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 11,
+        "alga": 12,
+        "ci": 12,
+        "mas": 14,
+        "fp": 16
+      }
+    },
+    "113532": {
+      "name": "IGOR ALEXANDRE VIEIRA COELHO",
+      "global": {
+        "average": 16.2,
+        "best": 16.2,
+        "worst": 16.2,
+        "subjects": {
+          "best": [18, ["alga", "fp"]],
+          "worst": [12, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 16.2,
+            "semester": {
+              "1": {
+                "average": 16.2,
+                "best": 18,
+                "worst": 12
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 17,
+        "alga": 18,
+        "ci": 12,
+        "mas": 16,
+        "fp": 18
+      }
+    },
+    "113534": {
+      "name": "MARIA LUIS DELGADO LINHARES",
+      "global": {
+        "average": 12.6,
+        "best": 12.6,
+        "worst": 12.6,
+        "subjects": {
+          "best": [14, ["fp"]],
+          "worst": [11, ["itw"]]
+        },
+        "year": {
+          "1": {
+            "average": 12.6,
+            "semester": {
+              "1": {
+                "average": 12.6,
+                "best": 14,
+                "worst": 11
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 11,
+        "alga": 13,
+        "ci": 12,
+        "mas": 13,
+        "fp": 14
+      }
+    },
+    "113585": {
+      "name": "HENRIQUE DE BARBOSA MENDONÇA OLIVEIRA",
+      "global": {
+        "average": 14.8,
+        "best": 14.8,
+        "worst": 14.8,
+        "subjects": {
+          "best": [18, ["fp"]],
+          "worst": [11, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 14.8,
+            "semester": {
+              "1": {
+                "average": 14.8,
+                "best": 18,
+                "worst": 11
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 13,
+        "alga": 16,
+        "ci": 11,
+        "mas": 16,
+        "fp": 18
+      }
+    },
+    "113586": {
+      "name": "TIAGO DE JESUS FERREIRA LOPES",
+      "global": {
+        "average": 15.4,
+        "best": 15.4,
+        "worst": 15.4,
+        "subjects": {
+          "best": [19, ["fp"]],
+          "worst": [13, ["itw"]]
+        },
+        "year": {
+          "1": {
+            "average": 15.4,
+            "semester": {
+              "1": {
+                "average": 15.4,
+                "best": 19,
+                "worst": 13
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 13,
+        "alga": 15,
+        "ci": 16,
+        "mas": 14,
+        "fp": 19
+      }
+    },
+    "113613": {
+      "name": "ANDRÉ VASQUES DORA",
+      "global": {
+        "average": 13.2,
+        "best": 13.2,
+        "worst": 13.2,
+        "subjects": {
+          "best": [15, ["mas"]],
+          "worst": [12, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 13.2,
+            "semester": {
+              "1": {
+                "average": 13.2,
+                "best": 15,
+                "worst": 12
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 13,
+        "alga": 13,
+        "ci": 12,
+        "mas": 15,
+        "fp": 13
+      }
+    },
+    "113626": {
+      "name": "RODRIGO GABRIEL ALMEIDA NOGUEIRA DE ABREU",
+      "global": {
+        "average": 13.2,
+        "best": 13.2,
+        "worst": 13.2,
+        "subjects": {
+          "best": [14, ["mas", "fp"]],
+          "worst": [12, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 13.2,
+            "semester": {
+              "1": {
+                "average": 13.2,
+                "best": 14,
+                "worst": 12
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 13,
+        "alga": 13,
+        "ci": 12,
+        "mas": 14,
+        "fp": 14
+      }
+    },
+    "113655": {
+      "name": "ABEL JOSÉ ENES TEIXEIRA",
+      "global": {
+        "average": 10.4,
+        "best": 10.4,
+        "worst": 10.4,
+        "subjects": {
+          "best": [16, ["itw"]],
+          "worst": [4, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 10.4,
+            "semester": {
+              "1": {
+                "average": 10.4,
+                "best": 16,
+                "worst": 4
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 16,
+        "alga": 6,
+        "ci": 4,
+        "mas": 14,
+        "fp": 12
+      }
+    },
+    "113664": {
+      "name": "DIOGO LOPES OLIVEIRA",
+      "global": {
+        "average": 11.75,
+        "best": 11.75,
+        "worst": 11.75,
+        "subjects": {
+          "best": [14, ["mas"]],
+          "worst": [9, ["fp"]]
+        },
+        "year": {
+          "1": {
+            "average": 11.75,
+            "semester": {
+              "1": {
+                "average": 11.75,
+                "best": 14,
+                "worst": 9
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 13,
+        "alga": 11,
+        "ci": -2,
+        "mas": 14,
+        "fp": 9
+      }
+    },
+    "113682": {
+      "name": "GABRIEL VIEIRA DOS SANTOS",
+      "global": {
+        "average": 14.8,
+        "best": 14.8,
+        "worst": 14.8,
+        "subjects": {
+          "best": [16, ["mas"]],
+          "worst": [14, ["itw", "ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 14.8,
+            "semester": {
+              "1": {
+                "average": 14.8,
+                "best": 16,
+                "worst": 14
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 14,
+        "alga": 15,
+        "ci": 14,
+        "mas": 16,
+        "fp": 15
+      }
+    },
+    "113713": {
+      "name": "JOÃO PINTO CAPUCHO",
+      "global": {
+        "average": 17.8,
+        "best": 17.8,
+        "worst": 17.8,
+        "subjects": {
+          "best": [20, ["fp"]],
+          "worst": [12, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 17.8,
+            "semester": {
+              "1": {
+                "average": 17.8,
+                "best": 20,
+                "worst": 12
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 19,
+        "alga": 19,
+        "ci": 12,
+        "mas": 19,
+        "fp": 20
+      }
+    },
+    "113717": {
+      "name": "CHRISTIAN ALEXANDER MONTEIRO FERNANDES",
+      "global": {
+        "average": 15.2,
+        "best": 15.2,
+        "worst": 15.2,
+        "subjects": {
+          "best": [19, ["alga"]],
+          "worst": [11, ["itw"]]
+        },
+        "year": {
+          "1": {
+            "average": 15.2,
+            "semester": {
+              "1": {
+                "average": 15.2,
+                "best": 19,
+                "worst": 11
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 11,
+        "alga": 19,
+        "ci": 16,
+        "mas": 12,
+        "fp": 18
+      }
+    },
+    "113736": {
+      "name": "RAQUEL FIGUEIREDO VINAGRE",
+      "global": {
+        "average": 14.4,
+        "best": 14.4,
+        "worst": 14.4,
+        "subjects": {
+          "best": [17, ["alga"]],
+          "worst": [11, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 14.4,
+            "semester": {
+              "1": {
+                "average": 14.4,
+                "best": 17,
+                "worst": 11
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 15,
+        "alga": 17,
+        "ci": 11,
+        "mas": 15,
+        "fp": 14
+      }
+    },
+    "113763": {
+      "name": "FRANCISCO JOSÉ GOMES PINTO",
+      "global": {
+        "average": 15.4,
+        "best": 15.4,
+        "worst": 15.4,
+        "subjects": {
+          "best": [17, ["mas", "fp"]],
+          "worst": [14, ["alga", "ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 15.4,
+            "semester": {
+              "1": {
+                "average": 15.4,
+                "best": 17,
+                "worst": 14
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 15,
+        "alga": 14,
+        "ci": 14,
+        "mas": 17,
+        "fp": 17
+      }
+    },
+    "113765": {
+      "name": "RUI DE FARIA MACHADO",
+      "global": {
+        "average": 11.0,
+        "best": 11.0,
+        "worst": 11.0,
+        "subjects": {
+          "best": [13, ["mas"]],
+          "worst": [8, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 11.0,
+            "semester": {
+              "1": {
+                "average": 11.0,
+                "best": 13,
+                "worst": 8
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 12,
+        "alga": 11,
+        "ci": 8,
+        "mas": 13,
+        "fp": 11
+      }
+    },
+    "113780": {
+      "name": "JOÃO MIGUEL FERREIRA VARELA",
+      "global": {
+        "average": 14.2,
+        "best": 14.2,
+        "worst": 14.2,
+        "subjects": {
+          "best": [18, ["fp"]],
+          "worst": [12, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 14.2,
+            "semester": {
+              "1": {
+                "average": 14.2,
+                "best": 18,
+                "worst": 12
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 14,
+        "alga": 13,
+        "ci": 12,
+        "mas": 14,
+        "fp": 18
+      }
+    },
+    "113786": {
+      "name": "GABRIEL MARTINS SILVA",
+      "global": {
+        "average": 12.8,
+        "best": 12.8,
+        "worst": 12.8,
+        "subjects": {
+          "best": [18, ["fp"]],
+          "worst": [9, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 12.8,
+            "semester": {
+              "1": {
+                "average": 12.8,
+                "best": 18,
+                "worst": 9
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 13,
+        "alga": 11,
+        "ci": 9,
+        "mas": 13,
+        "fp": 18
+      }
+    },
+    "113889": {
+      "name": "HUGO GONÇALO LOPES CASTRO",
+      "global": {
+        "average": 13.8,
+        "best": 13.8,
+        "worst": 13.8,
+        "subjects": {
+          "best": [18, ["fp"]],
+          "worst": [8, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 13.8,
+            "semester": {
+              "1": {
+                "average": 13.8,
+                "best": 18,
+                "worst": 8
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 15,
+        "alga": 13,
+        "ci": 8,
+        "mas": 15,
+        "fp": 18
+      }
+    },
+    "113893": {
+      "name": "GUILHERME FERREIRA SANTOS",
+      "global": {
+        "average": 15.6,
+        "best": 15.6,
+        "worst": 15.6,
+        "subjects": {
+          "best": [19, ["fp"]],
+          "worst": [13, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 15.6,
+            "semester": {
+              "1": {
+                "average": 15.6,
+                "best": 19,
+                "worst": 13
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 16,
+        "alga": 16,
+        "ci": 13,
+        "mas": 14,
+        "fp": 19
+      }
+    },
+    "113920": {
+      "name": "JOÃO MANUEL VIEIRA ROLDÃO",
+      "global": {
+        "average": 12.0,
+        "best": 12.0,
+        "worst": 12.0,
+        "subjects": {
+          "best": [16, ["fp"]],
+          "worst": [8, ["alga"]]
+        },
+        "year": {
+          "1": {
+            "average": 12.0,
+            "semester": {
+              "1": {
+                "average": 12.0,
+                "best": 16,
+                "worst": 8
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 13,
+        "alga": 8,
+        "ci": 10,
+        "mas": 13,
+        "fp": 16
+      }
+    },
+    "113962": {
+      "name": "ANDRÉ ATANÁSIO ALVES",
+      "global": {
+        "average": 14.0,
+        "best": 14.0,
+        "worst": 14.0,
+        "subjects": {
+          "best": [17, ["fp"]],
+          "worst": [10, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 14.0,
+            "semester": {
+              "1": {
+                "average": 14.0,
+                "best": 17,
+                "worst": 10
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 14,
+        "alga": 13,
+        "ci": 10,
+        "mas": 16,
+        "fp": 17
+      }
+    },
+    "113968": {
+      "name": "GUILHERME DE ALMEIDA MILITÃO ROSA",
+      "global": {
+        "average": 12.6,
+        "best": 12.6,
+        "worst": 12.6,
+        "subjects": {
+          "best": [18, ["fp"]],
+          "worst": [8, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 12.6,
+            "semester": {
+              "1": {
+                "average": 12.6,
+                "best": 18,
+                "worst": 8
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 14,
+        "alga": 11,
+        "ci": 8,
+        "mas": 12,
+        "fp": 18
+      }
+    },
+    "114129": {
+      "name": "REGINA PRATA TAVARES",
+      "global": {
+        "average": 10.25,
+        "best": 10.25,
+        "worst": 10.25,
+        "subjects": {
+          "best": [12, ["itw", "mas"]],
+          "worst": [7, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 10.25,
+            "semester": {
+              "1": {
+                "average": 10.25,
+                "best": 12,
+                "worst": 7
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 12,
+        "alga": 10,
+        "ci": 7,
+        "mas": 12,
+        "fp": -2
+      }
+    },
+    "114137": {
+      "name": "DIOGO MIGUEL COELHO FERNANDES",
+      "global": {
+        "average": 15.8,
+        "best": 15.8,
+        "worst": 15.8,
+        "subjects": {
+          "best": [17, ["itw", "fp"]],
+          "worst": [14, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 15.8,
+            "semester": {
+              "1": {
+                "average": 15.8,
+                "best": 17,
+                "worst": 14
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 17,
+        "alga": 16,
+        "ci": 14,
+        "mas": 15,
+        "fp": 17
+      }
+    },
+    "114192": {
+      "name": "DIOGO ALEXANDRE ROCHA DOMINGUES",
+      "global": {
+        "average": 12.0,
+        "best": 12.0,
+        "worst": 12.0,
+        "subjects": {
+          "best": [15, ["fp"]],
+          "worst": [8, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 12.0,
+            "semester": {
+              "1": {
+                "average": 12.0,
+                "best": 15,
+                "worst": 8
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 12,
+        "alga": 11,
+        "ci": 8,
+        "mas": 14,
+        "fp": 15
+      }
+    },
+    "114196": {
+      "name": "FILIPE PINA DE SOUSA",
+      "global": {
+        "average": 8.67,
+        "best": 8.67,
+        "worst": 8.67,
+        "subjects": {
+          "best": [13, ["itw"]],
+          "worst": [2, ["alga"]]
+        },
+        "year": {
+          "1": {
+            "average": 8.67,
+            "semester": {
+              "1": {
+                "average": 8.67,
+                "best": 13,
+                "worst": 2
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 13,
+        "alga": 2,
+        "ci": -2,
+        "mas": 11,
+        "fp": -2
+      }
+    },
+    "114220": {
+      "name": "ANA RITA FERNANDES DA SILVA",
+      "global": {
+        "average": 12.4,
+        "best": 12.4,
+        "worst": 12.4,
+        "subjects": {
+          "best": [14, ["itw", "alga", "mas"]],
+          "worst": [8, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 12.4,
+            "semester": {
+              "1": {
+                "average": 12.4,
+                "best": 14,
+                "worst": 8
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 14,
+        "alga": 14,
+        "ci": 8,
+        "mas": 14,
+        "fp": 12
+      }
+    },
+    "114246": {
+      "name": "CAROLINA MARQUES PRATA",
+      "global": {
+        "average": 14.8,
+        "best": 14.8,
+        "worst": 14.8,
+        "subjects": {
+          "best": [17, ["alga"]],
+          "worst": [13, ["itw"]]
+        },
+        "year": {
+          "1": {
+            "average": 14.8,
+            "semester": {
+              "1": {
+                "average": 14.8,
+                "best": 17,
+                "worst": 13
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 13,
+        "alga": 17,
+        "ci": 14,
+        "mas": 14,
+        "fp": 16
+      }
+    },
+    "114256": {
+      "name": "DIOGO MANUEL OLIVEIRA GUEDES",
+      "global": {
+        "average": 13.8,
+        "best": 13.8,
+        "worst": 13.8,
+        "subjects": {
+          "best": [15, ["fp"]],
+          "worst": [13, ["itw", "alga"]]
+        },
+        "year": {
+          "1": {
+            "average": 13.8,
+            "semester": {
+              "1": {
+                "average": 13.8,
+                "best": 15,
+                "worst": 13
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 13,
+        "alga": 13,
+        "ci": 14,
+        "mas": 14,
+        "fp": 15
+      }
+    },
+    "114273": {
+      "name": "RODRIGO FERREIRA MIRCO",
+      "global": {
+        "average": 11.0,
+        "best": 11.0,
+        "worst": 11.0,
+        "subjects": {
+          "best": [13, ["itw"]],
+          "worst": [8, ["alga"]]
+        },
+        "year": {
+          "1": {
+            "average": 11.0,
+            "semester": {
+              "1": {
+                "average": 11.0,
+                "best": 13,
+                "worst": 8
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 13,
+        "alga": 8,
+        "ci": 12,
+        "mas": -2,
+        "fp": -2
+      }
+    },
+    "114321": {
+      "name": "JOSÉ PEDRO FERREIRA MARQUES",
+      "global": {
+        "average": 13.6,
+        "best": 13.6,
+        "worst": 13.6,
+        "subjects": {
+          "best": [16, ["alga", "fp"]],
+          "worst": [10, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 13.6,
+            "semester": {
+              "1": {
+                "average": 13.6,
+                "best": 16,
+                "worst": 10
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 13,
+        "alga": 16,
+        "ci": 10,
+        "mas": 13,
+        "fp": 16
+      }
+    },
+    "114429": {
+      "name": "JOSÉ MARIA MENDES",
+      "global": {
+        "average": 7.67,
+        "best": 7.67,
+        "worst": 7.67,
+        "subjects": {
+          "best": [11, ["itw"]],
+          "worst": [6, ["alga", "ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 7.67,
+            "semester": {
+              "1": {
+                "average": 7.67,
+                "best": 11,
+                "worst": 6
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 11,
+        "alga": 6,
+        "ci": 6,
+        "mas": -2,
+        "fp": -2
+      }
+    },
+    "114478": {
+      "name": "ZAKHAR KRUPTSALA",
+      "global": {
+        "average": 16.8,
+        "best": 16.8,
+        "worst": 16.8,
+        "subjects": {
+          "best": [19, ["fp"]],
+          "worst": [14, ["mas"]]
+        },
+        "year": {
+          "1": {
+            "average": 16.8,
+            "semester": {
+              "1": {
+                "average": 16.8,
+                "best": 19,
+                "worst": 14
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 17,
+        "alga": 18,
+        "ci": 16,
+        "mas": 14,
+        "fp": 19
+      }
+    },
+    "114514": {
+      "name": "JOÃO PAULO MENDES GASPAR",
+      "global": {
+        "average": 16.2,
+        "best": 16.2,
+        "worst": 16.2,
+        "subjects": {
+          "best": [19, ["fp"]],
+          "worst": [14, ["itw"]]
+        },
+        "year": {
+          "1": {
+            "average": 16.2,
+            "semester": {
+              "1": {
+                "average": 16.2,
+                "best": 19,
+                "worst": 14
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 14,
+        "alga": 16,
+        "ci": 17,
+        "mas": 15,
+        "fp": 19
+      }
+    },
+    "114547": {
+      "name": "JOÃO PEDRO FERREIRA MONTEIRO",
+      "global": {
+        "average": 13.8,
+        "best": 13.8,
+        "worst": 13.8,
+        "subjects": {
+          "best": [16, ["alga"]],
+          "worst": [11, ["itw"]]
+        },
+        "year": {
+          "1": {
+            "average": 13.8,
+            "semester": {
+              "1": {
+                "average": 13.8,
+                "best": 16,
+                "worst": 11
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 11,
+        "alga": 16,
+        "ci": 14,
+        "mas": 14,
+        "fp": 14
+      }
+    },
+    "114588": {
+      "name": "HENRIQUE FERREIRA TEIXEIRA",
+      "global": {
+        "average": 11.0,
+        "best": 11.0,
+        "worst": 11.0,
+        "subjects": {
+          "best": [13, ["itw", "mas"]],
+          "worst": [8, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 11.0,
+            "semester": {
+              "1": {
+                "average": 11.0,
+                "best": 13,
+                "worst": 8
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 13,
+        "alga": 10,
+        "ci": 8,
+        "mas": 13,
+        "fp": 11
+      }
+    },
+    "114614": {
+      "name": "MARTIM JOSÉ SOUTO MARQUES DOS SANTOS",
+      "global": {
+        "average": 10.8,
+        "best": 10.8,
+        "worst": 10.8,
+        "subjects": {
+          "best": [13, ["fp"]],
+          "worst": [7, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 10.8,
+            "semester": {
+              "1": {
+                "average": 10.8,
+                "best": 13,
+                "worst": 7
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 12,
+        "alga": 10,
+        "ci": 7,
+        "mas": 12,
+        "fp": 13
+      }
+    },
+    "114622": {
+      "name": "ANTÓNIO FERNANDES ALBERTO",
+      "global": {
+        "average": 16.6,
+        "best": 16.6,
+        "worst": 16.6,
+        "subjects": {
+          "best": [19, ["fp"]],
+          "worst": [14, ["mas"]]
+        },
+        "year": {
+          "1": {
+            "average": 16.6,
+            "semester": {
+              "1": {
+                "average": 16.6,
+                "best": 19,
+                "worst": 14
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 16,
+        "alga": 18,
+        "ci": 16,
+        "mas": 14,
+        "fp": 19
+      }
+    },
+    "114624": {
+      "name": "SEBASTIÃO LEITE RESENDE TEIXEIRA",
+      "global": {
+        "average": 16.4,
+        "best": 16.4,
+        "worst": 16.4,
+        "subjects": {
+          "best": [20, ["fp"]],
+          "worst": [13, ["alga"]]
+        },
+        "year": {
+          "1": {
+            "average": 16.4,
+            "semester": {
+              "1": {
+                "average": 16.4,
+                "best": 20,
+                "worst": 13
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 17,
+        "alga": 13,
+        "ci": 16,
+        "mas": 16,
+        "fp": 20
+      }
+    },
+    "114640": {
+      "name": "FILIPE RAMALHO DE OLIVEIRA",
+      "global": {
+        "average": 10.4,
+        "best": 10.4,
+        "worst": 10.4,
+        "subjects": {
+          "best": [13, ["mas"]],
+          "worst": [7, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 10.4,
+            "semester": {
+              "1": {
+                "average": 10.4,
+                "best": 13,
+                "worst": 7
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 10,
+        "alga": 10,
+        "ci": 7,
+        "mas": 13,
+        "fp": 12
+      }
+    },
+    "114646": {
+      "name": "FRANCISCO BASTOS ALBERGARIA",
+      "global": {
+        "average": 11.0,
+        "best": 11.0,
+        "worst": 11.0,
+        "subjects": {
+          "best": [16, ["mas"]],
+          "worst": [4, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 11.0,
+            "semester": {
+              "1": {
+                "average": 11.0,
+                "best": 16,
+                "worst": 4
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 13,
+        "alga": 11,
+        "ci": 4,
+        "mas": 16,
+        "fp": -2
+      }
+    },
+    "114990": {
+      "name": "HENRIQUE MIGUEL LOPES DE FREITAS",
+      "global": {
+        "average": 16.2,
+        "best": 16.2,
+        "worst": 16.2,
+        "subjects": {
+          "best": [18, ["itw"]],
+          "worst": [14, ["ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 16.2,
+            "semester": {
+              "1": {
+                "average": 16.2,
+                "best": 18,
+                "worst": 14
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 18,
+        "alga": 17,
+        "ci": 14,
+        "mas": 15,
+        "fp": 17
+      }
+    },
+    "115178": {
+      "name": "ROBERTO MAGUETA FONTOURA",
+      "global": {
+        "average": 13.8,
+        "best": 13.8,
+        "worst": 13.8,
+        "subjects": {
+          "best": [18, ["fp"]],
+          "worst": [12, ["itw", "ci"]]
+        },
+        "year": {
+          "1": {
+            "average": 13.8,
+            "semester": {
+              "1": {
+                "average": 13.8,
+                "best": 18,
+                "worst": 12
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 12,
+        "alga": 14,
+        "ci": 12,
+        "mas": 13,
+        "fp": 18
+      }
+    },
+    "115243": {
+      "name": "RICARDO ALEXANDRE ANTUNES",
+      "global": {
+        "average": 15.6,
+        "best": 15.6,
+        "worst": 15.6,
+        "subjects": {
+          "best": [19, ["fp"]],
+          "worst": [12, ["itw"]]
+        },
+        "year": {
+          "1": {
+            "average": 15.6,
+            "semester": {
+              "1": {
+                "average": 15.6,
+                "best": 19,
+                "worst": 12
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 12,
+        "alga": 18,
+        "ci": 14,
+        "mas": 15,
+        "fp": 19
+      }
+    },
+    "115304": {
+      "name": "PEDRO MIGUEL AZEVEDO PINTO",
+      "global": {
+        "average": 17.8,
+        "best": 17.8,
+        "worst": 17.8,
+        "subjects": {
+          "best": [20, ["alga"]],
+          "worst": [16, ["ci", "mas"]]
+        },
+        "year": {
+          "1": {
+            "average": 17.8,
+            "semester": {
+              "1": {
+                "average": 17.8,
+                "best": 20,
+                "worst": 16
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 18,
+        "alga": 20,
+        "ci": 16,
+        "mas": 16,
+        "fp": 19
+      }
+    },
+    "115621": {
+      "name": "PAULO JOSÉ NICHO FROTA VARELA",
+      "global": {
+        "average": -1,
+        "best": -1,
+        "worst": -1,
+        "subjects": {
+          "best": [-1, []],
+          "worst": [-1, []]
+        },
+        "year": {
+          "1": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": -2,
+        "alga": -2,
+        "ci": -2,
+        "mas": -2,
+        "fp": -2
+      }
+    },
+    "115637": {
+      "name": "GIOVANNI PEREIRA SANTOS",
+      "global": {
+        "average": 13.8,
+        "best": 13.8,
+        "worst": 13.8,
+        "subjects": {
+          "best": [19, ["fp"]],
+          "worst": [8, ["itw"]]
+        },
+        "year": {
+          "1": {
+            "average": 13.8,
+            "semester": {
+              "1": {
+                "average": 13.8,
+                "best": 19,
+                "worst": 8
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 8,
+        "alga": 15,
+        "ci": 12,
+        "mas": 15,
+        "fp": 19
+      }
+    },
+    "115646": {
+      "name": "MARCELO LINO JÚNIOR",
+      "global": {
+        "average": 8.5,
+        "best": 8.5,
+        "worst": 8.5,
+        "subjects": {
+          "best": [12, ["mas"]],
+          "worst": [5, ["alga"]]
+        },
+        "year": {
+          "1": {
+            "average": 8.5,
+            "semester": {
+              "1": {
+                "average": 8.5,
+                "best": 12,
+                "worst": 5
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": -2,
+        "alga": 5,
+        "ci": -2,
+        "mas": 12,
+        "fp": -2
+      }
+    },
+    "115665": {
+      "name": "RAFAEL JORGE CRAVEIRO MIRANDA SEMEDO",
+      "global": {
+        "average": 11.0,
+        "best": 11.0,
+        "worst": 11.0,
+        "subjects": {
+          "best": [13, ["mas"]],
+          "worst": [9, ["alga"]]
+        },
+        "year": {
+          "1": {
+            "average": 11.0,
+            "semester": {
+              "1": {
+                "average": 11.0,
+                "best": 13,
+                "worst": 9
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": -2,
+        "alga": 9,
+        "ci": -2,
+        "mas": 13,
+        "fp": -2
+      }
+    },
+    "115674": {
+      "name": "CRIJECIA DOS SANTOS VILA NOVA",
+      "global": {
+        "average": 0.0,
+        "best": 0.0,
+        "worst": 0.0,
+        "subjects": {
+          "best": [0, ["alga"]],
+          "worst": [0, ["alga"]]
+        },
+        "year": {
+          "1": {
+            "average": 0.0,
+            "semester": {
+              "1": {
+                "average": 0.0,
+                "best": 0,
+                "worst": 0
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": -2,
+        "alga": 0,
+        "ci": -2,
+        "mas": -2,
+        "fp": -2
+      }
+    },
+    "115684": {
+      "name": "DIANA MERLIN DO ESPÍRITO SANTO ABALON",
+      "global": {
+        "average": -1,
+        "best": -1,
+        "worst": -1,
+        "subjects": {
+          "best": [-1, []],
+          "worst": [-1, []]
+        },
+        "year": {
+          "1": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": -2,
+        "alga": -1,
+        "ci": -2,
+        "mas": -2,
+        "fp": -2
+      }
+    },
+    "115696": {
+      "name": "JUDY DA GRAÇA JORGE CHEMANE",
+      "global": {
+        "average": 12.0,
+        "best": 12.0,
+        "worst": 12.0,
+        "subjects": {
+          "best": [12, ["mas"]],
+          "worst": [12, ["mas"]]
+        },
+        "year": {
+          "1": {
+            "average": 12.0,
+            "semester": {
+              "1": {
+                "average": 12.0,
+                "best": 12,
+                "worst": 12
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": -2,
+        "alga": -1,
+        "ci": -2,
+        "mas": 12,
+        "fp": -2
+      }
+    },
+    "115697": {
+      "name": "SHELTON LÁZIO AGOSTINHO",
+      "global": {
+        "average": 12.8,
+        "best": 12.8,
+        "worst": 12.8,
+        "subjects": {
+          "best": [15, ["fp"]],
+          "worst": [11, ["itw"]]
+        },
+        "year": {
+          "1": {
+            "average": 12.8,
+            "semester": {
+              "1": {
+                "average": 12.8,
+                "best": 15,
+                "worst": 11
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 11,
+        "alga": 13,
+        "ci": 13,
+        "mas": 12,
+        "fp": 15
+      }
+    },
+    "115785": {
+      "name": "SOFIA AMÉLIA DO AMARAL DUARTE",
+      "global": {
+        "average": 8.5,
+        "best": 8.5,
+        "worst": 8.5,
+        "subjects": {
+          "best": [14, ["mas"]],
+          "worst": [1, ["alga"]]
+        },
+        "year": {
+          "1": {
+            "average": 8.5,
+            "semester": {
+              "1": {
+                "average": 8.5,
+                "best": 14,
+                "worst": 1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "2": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          },
+          "3": {
+            "average": -1,
+            "semester": {
+              "1": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              },
+              "2": {
+                "average": -1,
+                "best": -1,
+                "worst": -1
+              }
+            }
+          }
+        }
+      },
+      "subjects": {
+        "itw": 13,
+        "alga": 1,
+        "ci": 6,
+        "mas": 14,
+        "fp": -2
+      }
+    }
+  },
+  "subjects": {
+    "alga": {
+      "name": "Algebra Linear e Geometria Analítica",
+      "average": 12.33,
+      "best": [20, ["115304"]],
+      "worst": [0, ["115674"]]
+    },
+    "ci": {
+      "name": "Cálculo I",
+      "average": 11.16,
+      "best": [17, ["114514"]],
+      "worst": [4, ["112957", "113655", "114646"]]
+    },
+    "itw": {
+      "name": "Introdução às Tecnologias Web",
+      "average": 13.47,
+      "best": [19, ["113713"]],
+      "worst": [8, ["110235", "115637"]]
+    },
+    "fp": {
+      "name": "Fundamentos de Programação",
+      "average": 15.48,
+      "best": [20, ["112610", "113713", "114624"]],
+      "worst": [8, ["112957"]]
+    },
+    "mas": {
+      "name": "Modelação e Análise de Sistemas",
+      "average": 14.01,
+      "best": [19, ["113713"]],
+      "worst": [11, ["112714", "112957", "112994", "113403", "114196"]]
+    }
+  },
+  "semester-subjects": {
+    "1": {
+      "1": ["alga", "ci", "itw", "fp", "mas"],
+      "2": []
+    },
+    "2": {
+      "1": [],
+      "2": []
+    },
+    "3": {
+      "1": [],
+      "2": []
+    }
+  },
+  "global": {
+    "average": 12.93,
+    "best": [17.8, ["113713", "115304"]],
+    "worst": [0.0, ["115674"]],
+    "subjects": {
+      "best": [15.48, ["fp"]],
+      "worst": [11.16, ["ci"]]
+    },
+    "year": {
+      "1": {
+        "average": 12.93,
+        "best": [17.8, ["113713", "115304"]],
+        "worst": [0.0, ["115674"]],
+        "semester": {
+          "1": {
+            "average": 12.93,
+            "best": [17.8, ["113713", "115304"]],
+            "worst": [0.0, ["115674"]]
+          },
+          "2": {
+            "average": -1,
+            "best": [-1, []],
+            "worst": [-1, []]
+          }
+        }
+      },
+      "2": {
+        "average": -1,
+        "best": [-1, []],
+        "worst": [-1, []],
+        "semester": {
+          "1": {
+            "average": -1,
+            "best": [-1, []],
+            "worst": [-1, []]
+          },
+          "2": {
+            "average": -1,
+            "best": [-1, []],
+            "worst": [-1, []]
+          }
+        }
+      },
+      "3": {
+        "average": -1,
+        "best": [-1, []],
+        "worst": [-1, []],
+        "semester": {
+          "1": {
+            "average": -1,
+            "best": [-1, []],
+            "worst": [-1, []]
+          },
+          "2": {
+            "average": -1,
+            "best": [-1, []],
+            "worst": [-1, []]
+          }
+        }
+      }
+    }
+  }
+}
