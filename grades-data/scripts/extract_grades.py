@@ -34,7 +34,7 @@ def semester_stats(grades: dict) -> None:
     """
     for student in grades["students"].values():
         for year, year_info in student["global"]["year"].items():
-            for semester, semester_info in year_info["semesters"].items():
+            for semester, semester_info in year_info["semester"].items():
                 possible_subjects: list[str] = grades["semester-subjects"][year][
                     semester
                 ]
@@ -64,7 +64,7 @@ def year_stats(grades: dict) -> None:
         for year in student["global"]["year"].values():
             valid_grades: list[float] = [
                 semester["average"]
-                for semester in year["semesters"].values()
+                for semester in year["semester"].values()
                 if isgrade(semester["average"])
             ]
 
@@ -130,12 +130,12 @@ def total_semester_stats(grades: dict) -> None:
         grades (dict): The grades dictionary.
     """
     for year, year_info in grades["global"]["year"].items():
-        for semester, semester_info in year_info["semesters"].items():
+        for semester, semester_info in year_info["semester"].items():
             valid_grades: list[float] = [
-                student["global"]["year"][year]["semesters"][semester]["average"]
+                student["global"]["year"][year]["semester"][semester]["average"]
                 for student in grades["students"].values()
                 if isgrade(
-                    student["global"]["year"][year]["semesters"][semester]["average"]
+                    student["global"]["year"][year]["semester"][semester]["average"]
                 )
             ]
             if not valid_grades:
@@ -147,7 +147,7 @@ def total_semester_stats(grades: dict) -> None:
                     student
                     for student, student_grade in grades["students"].items()
                     if grade
-                    == student_grade["global"]["year"][year]["semesters"][semester][
+                    == student_grade["global"]["year"][year]["semester"][semester][
                         "average"
                     ]
                 ]

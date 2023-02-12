@@ -13,7 +13,7 @@
         "year": {
           "1": {
             "average": 15.0,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 15.0,
                 "best": 15,
@@ -28,7 +28,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -43,7 +43,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -79,7 +79,7 @@
         "year": {
           "1": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -94,7 +94,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -109,7 +109,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -145,7 +145,7 @@
         "year": {
           "1": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -160,7 +160,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -175,7 +175,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -211,7 +211,7 @@
         "year": {
           "1": {
             "average": 14.0,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 14.0,
                 "best": 16,
@@ -226,7 +226,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -241,7 +241,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -277,7 +277,7 @@
         "year": {
           "1": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -292,7 +292,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -307,7 +307,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -343,7 +343,7 @@
         "year": {
           "1": {
             "average": 10.0,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 10.0,
                 "best": 10,
@@ -358,7 +358,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -373,7 +373,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -409,7 +409,7 @@
         "year": {
           "1": {
             "average": 13.8,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 13.8,
                 "best": 15,
@@ -424,7 +424,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -439,7 +439,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -475,7 +475,7 @@
         "year": {
           "1": {
             "average": 14.0,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 14.0,
                 "best": 15,
@@ -490,7 +490,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -505,7 +505,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -541,7 +541,7 @@
         "year": {
           "1": {
             "average": 11.5,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 11.5,
                 "best": 13,
@@ -556,7 +556,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -571,7 +571,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -607,7 +607,7 @@
         "year": {
           "1": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -622,7 +622,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -637,7 +637,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -673,7 +673,7 @@
         "year": {
           "1": {
             "average": 12.0,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 12.0,
                 "best": 12,
@@ -688,7 +688,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -703,7 +703,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -739,7 +739,7 @@
         "year": {
           "1": {
             "average": 12.0,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 12.0,
                 "best": 14,
@@ -754,7 +754,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -769,7 +769,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -805,7 +805,7 @@
         "year": {
           "1": {
             "average": 16.5,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 16.5,
                 "best": 18,
@@ -820,7 +820,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -835,7 +835,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -871,7 +871,7 @@
         "year": {
           "1": {
             "average": 14.67,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 14.67,
                 "best": 18,
@@ -886,7 +886,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -901,7 +901,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -937,7 +937,7 @@
         "year": {
           "1": {
             "average": 7.0,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 7.0,
                 "best": 12,
@@ -952,7 +952,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -967,7 +967,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -1003,7 +1003,7 @@
         "year": {
           "1": {
             "average": 8.33,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 8.33,
                 "best": 14,
@@ -1018,7 +1018,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -1033,7 +1033,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -1069,7 +1069,7 @@
         "year": {
           "1": {
             "average": 8.0,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 8.0,
                 "best": 10,
@@ -1084,7 +1084,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -1099,7 +1099,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -1135,7 +1135,7 @@
         "year": {
           "1": {
             "average": 8.5,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 8.5,
                 "best": 13,
@@ -1150,7 +1150,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -1165,7 +1165,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -1201,7 +1201,7 @@
         "year": {
           "1": {
             "average": 9.67,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 9.67,
                 "best": 13,
@@ -1216,7 +1216,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -1231,7 +1231,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -1267,7 +1267,7 @@
         "year": {
           "1": {
             "average": 10.5,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 10.5,
                 "best": 12,
@@ -1282,7 +1282,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -1297,7 +1297,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -1333,7 +1333,7 @@
         "year": {
           "1": {
             "average": 17.6,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 17.6,
                 "best": 20,
@@ -1348,7 +1348,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -1363,7 +1363,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -1399,7 +1399,7 @@
         "year": {
           "1": {
             "average": 13.8,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 13.8,
                 "best": 18,
@@ -1414,7 +1414,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -1429,7 +1429,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -1465,7 +1465,7 @@
         "year": {
           "1": {
             "average": 14.8,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 14.8,
                 "best": 17,
@@ -1480,7 +1480,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -1495,7 +1495,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -1531,7 +1531,7 @@
         "year": {
           "1": {
             "average": 11.8,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 11.8,
                 "best": 15,
@@ -1546,7 +1546,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -1561,7 +1561,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -1597,7 +1597,7 @@
         "year": {
           "1": {
             "average": 11.6,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 11.6,
                 "best": 15,
@@ -1612,7 +1612,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -1627,7 +1627,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -1663,7 +1663,7 @@
         "year": {
           "1": {
             "average": 13.0,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 13.0,
                 "best": 15,
@@ -1678,7 +1678,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -1693,7 +1693,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -1729,7 +1729,7 @@
         "year": {
           "1": {
             "average": 13.4,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 13.4,
                 "best": 15,
@@ -1744,7 +1744,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -1759,7 +1759,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -1795,7 +1795,7 @@
         "year": {
           "1": {
             "average": 11.4,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 11.4,
                 "best": 13,
@@ -1810,7 +1810,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -1825,7 +1825,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -1861,7 +1861,7 @@
         "year": {
           "1": {
             "average": 8.4,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 8.4,
                 "best": 11,
@@ -1876,7 +1876,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -1891,7 +1891,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -1927,7 +1927,7 @@
         "year": {
           "1": {
             "average": 14.2,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 14.2,
                 "best": 17,
@@ -1942,7 +1942,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -1957,7 +1957,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -1993,7 +1993,7 @@
         "year": {
           "1": {
             "average": 15.0,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 15.0,
                 "best": 16,
@@ -2008,7 +2008,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -2023,7 +2023,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -2059,7 +2059,7 @@
         "year": {
           "1": {
             "average": 15.8,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 15.8,
                 "best": 18,
@@ -2074,7 +2074,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -2089,7 +2089,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -2125,7 +2125,7 @@
         "year": {
           "1": {
             "average": 8.4,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 8.4,
                 "best": 14,
@@ -2140,7 +2140,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -2155,7 +2155,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -2191,7 +2191,7 @@
         "year": {
           "1": {
             "average": 16.8,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 16.8,
                 "best": 19,
@@ -2206,7 +2206,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -2221,7 +2221,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -2257,7 +2257,7 @@
         "year": {
           "1": {
             "average": 13.6,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 13.6,
                 "best": 18,
@@ -2272,7 +2272,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -2287,7 +2287,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -2323,7 +2323,7 @@
         "year": {
           "1": {
             "average": 16.2,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 16.2,
                 "best": 18,
@@ -2338,7 +2338,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -2353,7 +2353,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -2389,7 +2389,7 @@
         "year": {
           "1": {
             "average": 16.33,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 16.33,
                 "best": 18,
@@ -2404,7 +2404,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -2419,7 +2419,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -2455,7 +2455,7 @@
         "year": {
           "1": {
             "average": 12.4,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 12.4,
                 "best": 13,
@@ -2470,7 +2470,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -2485,7 +2485,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -2521,7 +2521,7 @@
         "year": {
           "1": {
             "average": 13.8,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 13.8,
                 "best": 17,
@@ -2536,7 +2536,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -2551,7 +2551,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -2587,7 +2587,7 @@
         "year": {
           "1": {
             "average": 15.6,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 15.6,
                 "best": 18,
@@ -2602,7 +2602,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -2617,7 +2617,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -2653,7 +2653,7 @@
         "year": {
           "1": {
             "average": 14.0,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 14.0,
                 "best": 17,
@@ -2668,7 +2668,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -2683,7 +2683,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -2719,7 +2719,7 @@
         "year": {
           "1": {
             "average": 11.2,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 11.2,
                 "best": 14,
@@ -2734,7 +2734,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -2749,7 +2749,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -2785,7 +2785,7 @@
         "year": {
           "1": {
             "average": 13.4,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 13.4,
                 "best": 16,
@@ -2800,7 +2800,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -2815,7 +2815,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -2851,7 +2851,7 @@
         "year": {
           "1": {
             "average": 13.8,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 13.8,
                 "best": 17,
@@ -2866,7 +2866,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -2881,7 +2881,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -2917,7 +2917,7 @@
         "year": {
           "1": {
             "average": 13.2,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 13.2,
                 "best": 16,
@@ -2932,7 +2932,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -2947,7 +2947,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -2983,7 +2983,7 @@
         "year": {
           "1": {
             "average": 13.0,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 13.0,
                 "best": 16,
@@ -2998,7 +2998,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -3013,7 +3013,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -3049,7 +3049,7 @@
         "year": {
           "1": {
             "average": 16.2,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 16.2,
                 "best": 18,
@@ -3064,7 +3064,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -3079,7 +3079,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -3115,7 +3115,7 @@
         "year": {
           "1": {
             "average": 12.6,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 12.6,
                 "best": 14,
@@ -3130,7 +3130,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -3145,7 +3145,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -3181,7 +3181,7 @@
         "year": {
           "1": {
             "average": 14.8,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 14.8,
                 "best": 18,
@@ -3196,7 +3196,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -3211,7 +3211,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -3247,7 +3247,7 @@
         "year": {
           "1": {
             "average": 15.4,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 15.4,
                 "best": 19,
@@ -3262,7 +3262,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -3277,7 +3277,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -3313,7 +3313,7 @@
         "year": {
           "1": {
             "average": 13.2,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 13.2,
                 "best": 15,
@@ -3328,7 +3328,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -3343,7 +3343,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -3379,7 +3379,7 @@
         "year": {
           "1": {
             "average": 13.2,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 13.2,
                 "best": 14,
@@ -3394,7 +3394,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -3409,7 +3409,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -3445,7 +3445,7 @@
         "year": {
           "1": {
             "average": 10.4,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 10.4,
                 "best": 16,
@@ -3460,7 +3460,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -3475,7 +3475,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -3511,7 +3511,7 @@
         "year": {
           "1": {
             "average": 11.75,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 11.75,
                 "best": 14,
@@ -3526,7 +3526,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -3541,7 +3541,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -3577,7 +3577,7 @@
         "year": {
           "1": {
             "average": 14.8,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 14.8,
                 "best": 16,
@@ -3592,7 +3592,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -3607,7 +3607,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -3643,7 +3643,7 @@
         "year": {
           "1": {
             "average": 17.8,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 17.8,
                 "best": 20,
@@ -3658,7 +3658,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -3673,7 +3673,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -3709,7 +3709,7 @@
         "year": {
           "1": {
             "average": 15.2,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 15.2,
                 "best": 19,
@@ -3724,7 +3724,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -3739,7 +3739,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -3775,7 +3775,7 @@
         "year": {
           "1": {
             "average": 14.4,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 14.4,
                 "best": 17,
@@ -3790,7 +3790,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -3805,7 +3805,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -3841,7 +3841,7 @@
         "year": {
           "1": {
             "average": 15.4,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 15.4,
                 "best": 17,
@@ -3856,7 +3856,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -3871,7 +3871,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -3907,7 +3907,7 @@
         "year": {
           "1": {
             "average": 11.0,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 11.0,
                 "best": 13,
@@ -3922,7 +3922,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -3937,7 +3937,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -3973,7 +3973,7 @@
         "year": {
           "1": {
             "average": 14.2,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 14.2,
                 "best": 18,
@@ -3988,7 +3988,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -4003,7 +4003,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -4039,7 +4039,7 @@
         "year": {
           "1": {
             "average": 12.8,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 12.8,
                 "best": 18,
@@ -4054,7 +4054,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -4069,7 +4069,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -4105,7 +4105,7 @@
         "year": {
           "1": {
             "average": 13.8,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 13.8,
                 "best": 18,
@@ -4120,7 +4120,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -4135,7 +4135,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -4171,7 +4171,7 @@
         "year": {
           "1": {
             "average": 15.6,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 15.6,
                 "best": 19,
@@ -4186,7 +4186,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -4201,7 +4201,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -4237,7 +4237,7 @@
         "year": {
           "1": {
             "average": 12.0,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 12.0,
                 "best": 16,
@@ -4252,7 +4252,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -4267,7 +4267,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -4303,7 +4303,7 @@
         "year": {
           "1": {
             "average": 14.0,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 14.0,
                 "best": 17,
@@ -4318,7 +4318,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -4333,7 +4333,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -4369,7 +4369,7 @@
         "year": {
           "1": {
             "average": 12.6,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 12.6,
                 "best": 18,
@@ -4384,7 +4384,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -4399,7 +4399,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -4435,7 +4435,7 @@
         "year": {
           "1": {
             "average": 10.25,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 10.25,
                 "best": 12,
@@ -4450,7 +4450,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -4465,7 +4465,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -4501,7 +4501,7 @@
         "year": {
           "1": {
             "average": 15.8,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 15.8,
                 "best": 17,
@@ -4516,7 +4516,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -4531,7 +4531,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -4567,7 +4567,7 @@
         "year": {
           "1": {
             "average": 12.0,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 12.0,
                 "best": 15,
@@ -4582,7 +4582,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -4597,7 +4597,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -4633,7 +4633,7 @@
         "year": {
           "1": {
             "average": 8.67,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 8.67,
                 "best": 13,
@@ -4648,7 +4648,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -4663,7 +4663,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -4699,7 +4699,7 @@
         "year": {
           "1": {
             "average": 12.4,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 12.4,
                 "best": 14,
@@ -4714,7 +4714,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -4729,7 +4729,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -4765,7 +4765,7 @@
         "year": {
           "1": {
             "average": 14.8,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 14.8,
                 "best": 17,
@@ -4780,7 +4780,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -4795,7 +4795,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -4831,7 +4831,7 @@
         "year": {
           "1": {
             "average": 13.8,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 13.8,
                 "best": 15,
@@ -4846,7 +4846,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -4861,7 +4861,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -4897,7 +4897,7 @@
         "year": {
           "1": {
             "average": 11.0,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 11.0,
                 "best": 13,
@@ -4912,7 +4912,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -4927,7 +4927,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -4963,7 +4963,7 @@
         "year": {
           "1": {
             "average": 13.6,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 13.6,
                 "best": 16,
@@ -4978,7 +4978,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -4993,7 +4993,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -5029,7 +5029,7 @@
         "year": {
           "1": {
             "average": 7.67,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 7.67,
                 "best": 11,
@@ -5044,7 +5044,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -5059,7 +5059,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -5095,7 +5095,7 @@
         "year": {
           "1": {
             "average": 16.8,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 16.8,
                 "best": 19,
@@ -5110,7 +5110,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -5125,7 +5125,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -5161,7 +5161,7 @@
         "year": {
           "1": {
             "average": 16.2,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 16.2,
                 "best": 19,
@@ -5176,7 +5176,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -5191,7 +5191,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -5227,7 +5227,7 @@
         "year": {
           "1": {
             "average": 13.8,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 13.8,
                 "best": 16,
@@ -5242,7 +5242,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -5257,7 +5257,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -5293,7 +5293,7 @@
         "year": {
           "1": {
             "average": 11.0,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 11.0,
                 "best": 13,
@@ -5308,7 +5308,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -5323,7 +5323,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -5359,7 +5359,7 @@
         "year": {
           "1": {
             "average": 10.8,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 10.8,
                 "best": 13,
@@ -5374,7 +5374,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -5389,7 +5389,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -5425,7 +5425,7 @@
         "year": {
           "1": {
             "average": 16.6,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 16.6,
                 "best": 19,
@@ -5440,7 +5440,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -5455,7 +5455,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -5491,7 +5491,7 @@
         "year": {
           "1": {
             "average": 16.4,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 16.4,
                 "best": 20,
@@ -5506,7 +5506,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -5521,7 +5521,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -5557,7 +5557,7 @@
         "year": {
           "1": {
             "average": 10.4,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 10.4,
                 "best": 13,
@@ -5572,7 +5572,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -5587,7 +5587,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -5623,7 +5623,7 @@
         "year": {
           "1": {
             "average": 11.0,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 11.0,
                 "best": 16,
@@ -5638,7 +5638,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -5653,7 +5653,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -5689,7 +5689,7 @@
         "year": {
           "1": {
             "average": 16.2,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 16.2,
                 "best": 18,
@@ -5704,7 +5704,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -5719,7 +5719,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -5755,7 +5755,7 @@
         "year": {
           "1": {
             "average": 13.8,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 13.8,
                 "best": 18,
@@ -5770,7 +5770,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -5785,7 +5785,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -5821,7 +5821,7 @@
         "year": {
           "1": {
             "average": 15.6,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 15.6,
                 "best": 19,
@@ -5836,7 +5836,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -5851,7 +5851,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -5887,7 +5887,7 @@
         "year": {
           "1": {
             "average": 17.8,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 17.8,
                 "best": 20,
@@ -5902,7 +5902,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -5917,7 +5917,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -5953,7 +5953,7 @@
         "year": {
           "1": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -5968,7 +5968,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -5983,7 +5983,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -6019,7 +6019,7 @@
         "year": {
           "1": {
             "average": 13.8,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 13.8,
                 "best": 19,
@@ -6034,7 +6034,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -6049,7 +6049,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -6085,7 +6085,7 @@
         "year": {
           "1": {
             "average": 8.5,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 8.5,
                 "best": 12,
@@ -6100,7 +6100,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -6115,7 +6115,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -6151,7 +6151,7 @@
         "year": {
           "1": {
             "average": 11.0,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 11.0,
                 "best": 13,
@@ -6166,7 +6166,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -6181,7 +6181,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -6217,7 +6217,7 @@
         "year": {
           "1": {
             "average": 0.0,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 0.0,
                 "best": 0,
@@ -6232,7 +6232,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -6247,7 +6247,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -6283,7 +6283,7 @@
         "year": {
           "1": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -6298,7 +6298,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -6313,7 +6313,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -6349,7 +6349,7 @@
         "year": {
           "1": {
             "average": 12.0,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 12.0,
                 "best": 12,
@@ -6364,7 +6364,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -6379,7 +6379,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -6415,7 +6415,7 @@
         "year": {
           "1": {
             "average": 12.8,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 12.8,
                 "best": 15,
@@ -6430,7 +6430,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -6445,7 +6445,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -6481,7 +6481,7 @@
         "year": {
           "1": {
             "average": 8.5,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": 8.5,
                 "best": 14,
@@ -6496,7 +6496,7 @@
           },
           "2": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -6511,7 +6511,7 @@
           },
           "3": {
             "average": -1,
-            "semesters": {
+            "semester": {
               "1": {
                 "average": -1,
                 "best": -1,
@@ -6594,7 +6594,7 @@
         "average": 12.93,
         "best": [17.8, ["113713", "115304"]],
         "worst": [0.0, ["115674"]],
-        "semesters": {
+        "semester": {
           "1": {
             "average": 12.93,
             "best": [17.8, ["113713", "115304"]],
@@ -6611,7 +6611,7 @@
         "average": -1,
         "best": [-1, []],
         "worst": [-1, []],
-        "semesters": {
+        "semester": {
           "1": {
             "average": -1,
             "best": [-1, []],
@@ -6628,7 +6628,7 @@
         "average": -1,
         "best": [-1, []],
         "worst": [-1, []],
-        "semesters": {
+        "semester": {
           "1": {
             "average": -1,
             "best": [-1, []],

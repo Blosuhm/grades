@@ -3,6 +3,7 @@
     "isfloat",
     "isgrade",
     "nmec",
+    "nmecs",
     "tailwindcss",
     "validategrade"
   ],
