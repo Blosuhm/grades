@@ -1,74 +1,7 @@
-import grades from "../../grades-data/data/grades.json";
+import grades from "@/grades-data/data/grades.json";
+import { GradesSchema } from "@/app/schema";
 
-interface Grades {
-  students: {
-    [nmec: string]: {
-      name: string;
-      global: {
-        average: number;
-        best: number;
-        worst: number;
-        subjects: {
-          best: [number, string[] | []];
-          worst: [number, string[] | []];
-        };
-        year: {
-          [year: string]: {
-            average: number;
-            semester: {
-              [semester: string]: {
-                average: number;
-                best: number;
-                worst: number;
-              };
-            };
-          };
-        };
-      };
-      subjects: {
-        [subject: string]: number;
-      };
-    };
-  };
-  subjects: {
-    [subject: string]: {
-      name: string;
-      average: number;
-      best: [number, string[] | []];
-      worst: [number, string[] | []];
-    };
-  };
-  "semester-subjects": {
-    [year: string]: {
-      [semester: string]: string[] | [];
-    };
-  };
-  global: {
-    average: number;
-    best: [number, string[] | []];
-    worst: [number, string[] | []];
-    subject: {
-      best: [number, string[] | []];
-      worst: [number, string[] | []];
-    };
-    year: {
-      [year: string]: {
-        average: number;
-        best: [number, string[] | []];
-        worst: [number, string[] | []];
-        semester: {
-          [semester: string]: {
-            average: number;
-            best: [number, string[] | []];
-            worst: [number, string[] | []];
-          };
-        };
-      };
-    };
-  };
-}
-
-const gradesObject: Grades = grades;
+const gradesObject = GradesSchema.parse(grades);
 
 function formatGlobalAverage(average: number): number | "No data" {
   return average === -1 ? "No data" : average;
