@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --turbo",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
@@ -12,6 +12,7 @@
     "@chakra-ui/react": "^2.5.0",
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
+    "@mui/icons-material": "^5.11.9",
     "@mui/material": "^5.11.9",
     "@next/font": "13.1.6",
     "@types/node": "18.13.0",
