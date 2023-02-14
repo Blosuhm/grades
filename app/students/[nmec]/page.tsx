@@ -1,9 +1,8 @@
 import { students } from "./grades.json";
-import { StudentSchema } from "@/app/schema";
+import GradesSchema from "@/app/schema";
 import z from "zod";
 
-const FullStudentSchema = z.record(StudentSchema);
-const studentsObject = FullStudentSchema.parse(students);
+const studentsObject = GradesSchema.students.parse(students);
 
 const Props = z.object({
   params: z.object({
@@ -25,6 +24,17 @@ export default function NmecPage({ params }: Props) {
     <div className="h-screen flex items-center justify-center">
       <h1 className="text-center">
         Student Name: {studentsObject[params.nmec].name}
+        {Object.entries(studentsObject[params.nmec].subjects).map(
+          ([subject, value]) => {
+            return (
+              <div key={subject}>
+                <h2>
+                  {subject}: {value}
+                </h2>
+              </div>
+            );
+          }
+        )}
       </h1>
     </div>
   );

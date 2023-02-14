@@ -1,30 +1,29 @@
-import grades from "@/grades-data/data/grades.json";
-import { GradesSchema } from "@/app/schema";
-
-const gradesObject = GradesSchema.parse(grades);
-
-function formatGlobalAverage(average: number): number | "No data" {
-  return average === -1 ? "No data" : average;
-}
-
-function formatGlobalSubjects(data: [number, string[] | []]): string {
-  if (data[0] === -1) return "No data";
-  const subjects = `(${data[1]
-    .map(
-      (subject: string) => gradesObject.subjects[subject as keyof object].name
-    )
-    .join(", ")})`;
-  return `${data[0]} ${subjects}`;
-}
+import { students, subjects } from "@/grades-data/data/grades.json";
+import GradesSchema from "@/app/schema";
 
 export default function TablePage() {
-  const nmecs: string[] = Object.keys(grades.students);
+  const subjectsObject = GradesSchema.subjects.parse(subjects);
+  const studentsObject = GradesSchema.students.parse(students);
+
+  const nmecs: string[] = Object.keys(studentsObject);
+
+  function formatGlobalAverage(average: number): number | "No data" {
+    return average === -1 ? "No data" : average;
+  }
+
+  function formatGlobalSubjects(data: [number, string[] | []]): string {
+    if (data[0] === -1) return "No data";
+    const subjects = `(${data[1]
+      .map((subject: string) => subjectsObject[subject].name)
+      .join(", ")})`;
+    return `${data[0]} ${subjects}`;
+  }
 
   return (
     <div className="container mx-auto px-4">
       <h1>Table</h1>
       {nmecs.map((nmec: string) => {
-        const { name, global } = gradesObject.students[nmec as keyof object];
+        const { name, global } = studentsObject[nmec];
         return (
           <div key={nmec}>
             <h2>
