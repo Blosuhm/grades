@@ -1,6 +1,5 @@
 import { students, subjects } from "@/grades-data/data/grades.json";
-import GradesSchema from "@/app/schema";
-import { AccordionTitle } from "@/components/AccordionTittle";
+import GradesSchema from "@/app/(schema)/schema";
 
 export default function TablePage() {
   const subjectsObject = GradesSchema.subjects.parse(subjects);
@@ -22,15 +21,12 @@ export default function TablePage() {
 
   return (
     <div className="container mx-auto px-4">
-      <AccordionTitle>Hi</AccordionTitle>
       <h1>Table</h1>
       {nmecs.map((nmec: string) => {
         const { name, global } = studentsObject[nmec];
         return (
           <div key={nmec}>
-            <h2>
-              {name} ({nmec})
-            </h2>
+            <h2>{`${name} (${nmec})`}</h2>
             <hr />
             <h3>Grades</h3>
             <h3>Global</h3>
@@ -38,14 +34,17 @@ export default function TablePage() {
               Global Average:
               {formatGlobalAverage(global.average)}
             </p>
-            <p>Global Best: {global.best}</p>
-            <p>Global Worst: {global.worst}</p>
+            <p>{`Global Best: ${global.best}`}</p>
+            <p>{`Global Worst: ${global.worst}`}</p>
             <p>
-              Best Global Subjects: {formatGlobalSubjects(global.subjects.best)}
+              {`Best Global Subjects: ${formatGlobalSubjects(
+                global.subjects.best
+              )}`}
             </p>
             <p>
-              Worst Global Subjects:{" "}
-              {formatGlobalSubjects(global.subjects.worst)}
+              {`Worst Global Subjects: ${formatGlobalSubjects(
+                global.subjects.worst
+              )}`}
             </p>
           </div>
         );

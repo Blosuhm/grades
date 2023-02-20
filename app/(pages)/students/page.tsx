@@ -1,7 +1,7 @@
 "use client";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import { students, subjects } from "@/grades-data/data/grades.json";
-import GradesSchema from "@/app/schema";
+import GradesSchema from "@/app/(schema)/schema";
 import { Accordion } from "@/components/Accordion";
 import { AccordionTitle } from "@/components/AccordionTittle";
 import { AccordionContent } from "@/components/AccordionContent";
