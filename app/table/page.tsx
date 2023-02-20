@@ -1,5 +1,6 @@
 import { students, subjects } from "@/grades-data/data/grades.json";
 import GradesSchema from "@/app/schema";
+import { AccordionTitle } from "@/components/AccordionTittle";
 
 export default function TablePage() {
   const subjectsObject = GradesSchema.subjects.parse(subjects);
@@ -21,6 +22,7 @@ export default function TablePage() {
 
   return (
     <div className="container mx-auto px-4">
+      <AccordionTitle>Hi</AccordionTitle>
       <h1>Table</h1>
       {nmecs.map((nmec: string) => {
         const { name, global } = studentsObject[nmec];
