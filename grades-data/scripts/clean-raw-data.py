@@ -1,7 +1,7 @@
 import os
 
-
-RAW_DATA = r"grades-data\data\raw"
+ANTI_BUG = 0.00001
+RAW_DATA = r"grades-data/data/raw"
 
 
 def isfloat(value: str) -> bool:
@@ -32,15 +32,21 @@ def clear_data() -> None:
     """Cleans the raw data."""
     for folder in os.listdir(RAW_DATA):
         clean_data: dict = dict()
-        for file in os.listdir(rf"{RAW_DATA}\{folder}"):
-            with open(rf"{RAW_DATA}\{folder}\{file}", "r", encoding="utf-8") as f:
+        for file in os.listdir(rf"{RAW_DATA}/{folder}"):
+            with open(rf"{RAW_DATA}/{folder}/{file}", "r", encoding="utf-8") as f:
                 for line in f:
                     nmec, *_, grade = line.strip().split()
                     grade = grade.replace(",", ".")
-                    grade = round(float(grade)) if isfloat(grade) else grade
-
+                    if nmec == "114614":
+                        print(grade)
+                        print(float(grade))
+                        print(round(float(grade)+ANTI_BUG))
+                        print()
+                    grade = round(float(grade)+ANTI_BUG) if isfloat(grade) else grade
+                    if nmec == "114614":
+                        print(grade)
                     clean_data[nmec] = choose_grade(grade, clean_data.get(nmec, ""))
-        with open(rf"grades-data\data\clean\{folder}.tsv", "w", encoding="utf-8") as f:
+        with open(rf"grades-data/data/clean/{folder}.tsv", "w", encoding="utf-8") as f:
             for nmec, grade in clean_data.items():
                 f.write(f"{nmec}\t{grade}\n")
 

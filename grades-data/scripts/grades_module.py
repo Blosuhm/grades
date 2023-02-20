@@ -1,7 +1,7 @@
 import json
 
 
-GRADES_FILE = r"grades-data\data\grades.json"
+GRADES_FILE = r"grades-data/data/grades.json"
 
 
 def load_grades():
