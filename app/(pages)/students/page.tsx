@@ -12,7 +12,7 @@ export default function StudentPage() {
 
   return (
     <>
-      <div className="rounded-md">
+      <div className="rotate rounded-md">
         {Object.entries(studentsObject).map(([nmec, student]) => {
           return (
             <Accordion key={nmec}>

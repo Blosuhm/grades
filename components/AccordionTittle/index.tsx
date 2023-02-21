@@ -1,4 +1,4 @@
-import { useContext } from "react";
+import { useContext, useRef, useEffect } from "react";
 import { AccordionContext } from "../AccordionContext";
 
 interface AccordionTitleProps {
@@ -13,22 +13,35 @@ const AccordionTitle = ({
   expandIconTransform,
 }: AccordionTitleProps) => {
   const { toggleExpanded, expanded } = useContext(AccordionContext);
+  const expandIconRef = useRef<HTMLDivElement>(null);
+
   let transform = "";
   if (expanded) {
     transform = expandIconTransform ? expandIconTransform : "";
   }
 
+  useEffect(() => {
+    if (expanded && expandIconRef.current) {
+      const expandIconDiv = expandIconRef.current;
+      expandIconDiv.classList.add(transform);
+      return () => {
+        expandIconDiv.classList.remove(transform);
+      };
+    }
+  });
+
   return (
     <>
       <div
-        className="flex justify-between bg-white dark:bg-gray-800 dark:text-white cursor-pointer px-4 select-none"
+        className="flex cursor-pointer select-none justify-between bg-white px-4 dark:bg-gray-800 dark:text-white"
         onClick={toggleExpanded}
       >
-        <div className="flex-grow my-4">
+        <div className="my-4 flex-grow">
           <p>{children}</p>
         </div>
         <div
-          className={`flex items-center transition-all duration-100 ease-out ${transform}`}
+          ref={expandIconRef}
+          className="flex items-center transition-all duration-100 ease-out"
         >
           {expandIcon ? expandIcon : ""}
         </div>

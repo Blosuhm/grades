@@ -10,10 +10,10 @@ export default function RootLayout({
       <head />
       <body>
         <nav></nav>
-        <main className="min-h-screen container mx-auto px-4 py-16 mb-96">
+        <main className="container mx-auto mb-96 min-h-screen px-4 py-16">
           {children}
         </main>
-        <footer className=" bg-black absolute w-full bottom-0 h-96">
+        <footer className="absolute bottom-0 h-96 w-full bg-black">
           <div className="container"></div>
         </footer>
       </body>

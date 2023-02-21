@@ -16,7 +16,7 @@ const AccordionContent = ({ children }: AccordionContentProps) => {
   return (
     <>
       <Collapse isOpened={expanded}>
-        <div className="bg-gray-100 dark:bg-gray-700 dark:text-white pt-2 px-4 pb-4">
+        <div className="bg-gray-100 px-4 pt-2 pb-4 dark:bg-gray-700 dark:text-white">
           {children}
         </div>
       </Collapse>
