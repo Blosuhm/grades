@@ -24,4 +24,4 @@ const AccordionContent = ({ children }: AccordionContentProps) => {
   );
 };
 
-export { AccordionContent };
+export default AccordionContent;

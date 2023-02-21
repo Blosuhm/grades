@@ -1,11 +1,12 @@
 "use client";
-import { useState, useEffect } from "react";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import { students, subjects } from "@/grades-data/data/grades.json";
 import GradesSchema from "@/app/(schema)/schema";
-import { Accordion } from "@/components/Accordion";
-import { AccordionTitle } from "@/components/AccordionTittle";
-import { AccordionContent } from "@/components/AccordionContent";
+import {
+  Accordion,
+  AccordionContent,
+  AccordionTitle,
+} from "@/components/accordion";
 
 export default function StudentPage() {
   const studentsObject = GradesSchema.students.parse(students);

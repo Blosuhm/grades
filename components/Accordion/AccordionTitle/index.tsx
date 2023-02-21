@@ -50,4 +50,4 @@ const AccordionTitle = ({
   );
 };
 
-export { AccordionTitle };
+export default AccordionTitle;
