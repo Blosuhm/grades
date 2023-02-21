@@ -1,4 +1,5 @@
 "use client";
+import { useState, useEffect } from "react";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import { students, subjects } from "@/grades-data/data/grades.json";
 import GradesSchema from "@/app/(schema)/schema";

@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useState, useMemo, useCallback, useEffect } from "react";
 import { AccordionContext } from "../AccordionContext";
 
 interface AccordionProps {
@@ -10,14 +10,22 @@ export const Accordion = ({ children }: AccordionProps) => {
 
   const [expanded, setExpanded] = useState(false);
 
-  const toggleExpanded = () => {
+  const toggleExpanded = useCallback(() => {
+    console.log("toggleExpanded");
     setExpanded(!expanded);
-  };
+  }, [expanded]);
+
+  const contextValue = useMemo(
+    () => ({ hasCorrectParent, expanded, toggleExpanded }),
+    [hasCorrectParent, expanded, toggleExpanded]
+  );
+
+  useEffect(() => {
+    console.log("Context Value changed");
+  }, [contextValue]);
 
   return (
-    <AccordionContext.Provider
-      value={{ hasCorrectParent, expanded, toggleExpanded }}
-    >
+    <AccordionContext.Provider value={contextValue}>
       <div className="w-full shadow-md">{children}</div>
     </AccordionContext.Provider>
   );
